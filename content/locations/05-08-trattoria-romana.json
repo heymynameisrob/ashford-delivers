@@ -1,0 +1,22 @@
+{
+  "safetyTips": "Contactless delivery and Social Distancing in restaurant for take aways",
+  "name": "TRATTORIA ROMANA",
+  "phone": "01233638033",
+  "address": "32 Bank Street Ashford Kent TN23 1BA",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1588944732/trattoria_romana_yeuwsz.jpg",
+  "tags": [
+    "Restaurant",
+    "Italian",
+    "Food"
+  ],
+  "website": "http://www.trattoriaromana.co.uk/",
+  "deliveryHours": [
+    "Tuesday 12:00-21.30",
+    "Wednesday 12:00-21.30",
+    "Thursday 12:00-21.30",
+    "Friday Tuesday 12:00-21.30",
+    "Saturday 12:00-21.30"
+  ],
+  "email": "trattorioaromana.ashford@hotmail.com",
+  "description": "Fine Italian dining take away and delivery service. *Order via website or telephone."
+}
