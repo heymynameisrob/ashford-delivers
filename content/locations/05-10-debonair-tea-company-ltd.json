@@ -1,0 +1,23 @@
+{
+  "safetyTips": "PPE in production, deliveries via Royal Mail.",
+  "name": "DEBONAIR TEA COMPANY LTD",
+  "phone": "01303238093",
+  "address": "Unit 1, Shrine Barn, Sandling Road, Hythe, CT21 4HE",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589130877/Screen_Shot_2020-05-10_at_6.14.16_PM_ij1dvw.png",
+  "tags": [
+    "Tea",
+    "Zero Waste",
+    "Gifts"
+  ],
+  "website": "https://www.debonairtea.co.uk/",
+  "deliveryHours": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "email": "info@debonairtea.co.uk",
+  "description": "Debonair Tea Company are accredited tea experts based in Kent. We long believed it was possible to make high quality tea more accessible - at an honest price point - and set upon our mission to make exceptional tea a daily pleasure back in 2014."
+}
