@@ -1,0 +1,17 @@
+{
+  "safetyTips": "Extra Cleaning procedures in place. Non contact doorstep Delivery.",
+  "name": "BETTY'S BROWNIES",
+  "phone": "07596647237",
+  "address": "The Ridgeway, Smeeth, Ashford, TN25 6SQ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589124968/Untitled_tthsbb.png",
+  "tags": [
+    "Cakes",
+    "Brownies"
+  ],
+  "website": "https://bettys-brownies.myshopify.com",
+  "deliveryHours": [
+    "Collection Only.  Delivery coming soon."
+  ],
+  "email": "bettys_brownies@hotmail.com",
+  "description": "Baking a fantastic selection of Brownies and other goodies which can be Collected or popped in the post if you're a bit further afield. Delivery coming soon."
+}
