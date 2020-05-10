@@ -1,0 +1,23 @@
+{
+  "safetyTips": "Following the correct Covid guidelines: disposable gloves, sanitizer, no contact deliveries, online payment only NO CASH  ",
+  "name": "NESSIE'S KITCHEN",
+  "phone": "07584436601",
+  "address": "Old Church Way, Chartham, CT4 7TN ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589096748/Screen_Shot_2020-05-10_at_8.45.28_AM_exawml.png",
+  "tags": [
+    "Food",
+    "Cakes",
+    "Gluten & Dairy Free",
+    "Vegan"
+  ],
+  "website": "www.nessies.kitchen",
+  "deliveryHours": [
+    "Monday 11:00 to 14:00",
+    "Tuesday 11:00 to 14:00",
+    "Wednesday 11:00 to 14:00",
+    "Thursday 11:00 to 14:00",
+    "Friday 11:00 to 14:00"
+  ],
+  "email": "nessie@nessies.kitchen",
+  "description": "Bespoke cakes, celebration cakes, brownies, cupcakes, afternoon tea... specialise in Gluten free, dairy free, vegan and regular. *Order Online or via Facebook page. Delivery or Collection."
+}
