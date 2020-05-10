@@ -1,0 +1,25 @@
+{
+  "safetyTips": "There is no access to pub itself. Food orders are given a collection time that we ask people to adhere to. There is ample outside space to queue. Please do not use the seating area in front of the pub. ",
+  "name": "THE DOG HOUSE",
+  "phone": "07340985064",
+  "address": "The Dog House, Evegate, Station Road, Smeeth, Ashford, TN25 6SX",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589131767/Screen_Shot_2020-05-10_at_6.29.02_PM_mgg1rh.png",
+  "tags": [
+    "Takeway",
+    "Beer",
+    "Cider",
+    "Food"
+  ],
+  "website": "https://thedoghousepub.co.uk/",
+  "deliveryHours": [
+    "Monday 17:00 - 19:00 Collection Only (Food only Fri & Sat eve)",
+    "Tuesday 17:00 - 19:00 Collection Only (Food only Fri & Sat eve)",
+    "Wednesday 17:00 - 19:00 Collection Only (Food only Fri & Sat eve)",
+    "Thursday 17:00 - 19:00 Collection Only (Food only Fri & Sat eve)",
+    "Friday 17:00 - 19:00 Collection Only ",
+    "Saturday 12:00 - 14:00 and 17:00 - 19:00 Collection Only ",
+    "Sunday 12:00 - 14:00 Collection Only (Food only Fri & Sat eve)"
+  ],
+  "email": "info@thedoghousepub.co.uk",
+  "description": "Open for takeaway local ale and ciders all week. Friday evening for takeaway homemade pizza and Saturday evening for burgers. Follow our Facebook page for updates and ordering. "
+}
