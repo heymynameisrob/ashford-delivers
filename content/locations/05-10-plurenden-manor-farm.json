@@ -1,0 +1,25 @@
+{
+  "safetyTips": "Contact Free",
+  "name": "PLURENDEN MANOR FARM",
+  "phone": "01233822084",
+  "address": "Plurenden Manor Farm, Plurenden Lane, High Halden, TN26 3JW",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589097106/1A159769-6F1C-4DEE-8A75-4F6BFBBB59A0_rtevd4.jpg",
+  "tags": [
+    "Dairy",
+    "Food",
+    "Baked Goods",
+    "Veg Box",
+    "Bread"
+  ],
+  "website": "www.plurendenmilk.co.uk",
+  "deliveryHours": [
+    "Monday 16:00 onwards ",
+    "Tuesday 16:00 onwards",
+    "Wednesday 16:00 onwards",
+    "Thursday 16:00 onwards",
+    "Friday 16:00 onwards",
+    "Saturday 16:00 onwards"
+  ],
+  "email": "orders@plurendenmilk.co.uk",
+  "description": "Family run farm, producing multi-award winning milk & dairy products. Situated in the heart of The Garden of England, Kent, offering doorstep delivery of variety of goods. "
+}
