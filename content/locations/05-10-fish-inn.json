@@ -1,0 +1,28 @@
+{
+  "safetyTips": "Contactless Delivery",
+  "name": "FISH INN",
+  "phone": "01233622228",
+  "address": "44c Brookfield Road, Ashford, Kent, TN23 4EZ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589127883/Screen_Shot_2020-05-10_at_5.24.22_PM_tdyeqh.png",
+  "tags": [
+    "Food",
+    "Fish and Chips",
+    "Burgers",
+    "Chicken",
+    "Chips",
+    "Takeaway",
+    "Beer",
+    "Wine"
+  ],
+  "deliveryHours": [
+    "Monday 12:00 - 22:00",
+    "Tuesday 12:00 - 22:00",
+    "Wednesday 12:00 - 22:00",
+    "Thursday 12:00 - 22:00",
+    "Friday 12:00 - 22:00",
+    "Saturday 12:00 - 22:00",
+    "Sunday 12:00 - 22:00"
+  ],
+  "email": "shenufuk@gmail.com",
+  "description": "Treat yourself to a meal from Fish Inn today. We offer a wide range of dishes, including Fish & Chips, Burgers, Chicken plus wine, beer and more.  Call us for Delivery or Collection.  Don’t forget to let us know if you enjoyed your meal and FISH INN experience by leaving feedback. Bon appetite!"
+}
