@@ -1,0 +1,22 @@
+{
+  "safetyTips": "Goods are stored in a separate room in the premises. Collections can be left outside the premises for customers to pick up. Deliveries are via Royal Mail in the main.",
+  "name": "BETSY & BLUE BOUTIQUE",
+  "address": "Mitchell's House, Kingsford Street, Mersham, Ashford, Kent, TN25 6PE",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589131465/Screen_Shot_2020-05-10_at_6.24.06_PM_arf9o1.png",
+  "tags": [
+    "Gifts",
+    "Homewares",
+    "Clothing",
+    "Toiletries"
+  ],
+  "website": "https://www.betsyandblueboutique.co.uk/",
+  "deliveryHours": [
+    "Monday 10:00 - 17:00 (TN24 & TN25 only)",
+    "Tuesday 10:00 - 17:00 (TN24 & TN25 only)",
+    "Wednesday 10:00 - 17:00 (TN24 & TN25 only)",
+    "Thursday 10:00 - 17:00 (TN24 & TN25 only)",
+    "Friday 10:00 - 17:00 (TN24 & TN25 only)"
+  ],
+  "email": "info@betsyandblueboutique.co.uk",
+  "description": "Hi, we're Betsy & Blue Boutique; an online retail store specialising in gorgeous Gifts, Homeware, Accessories and Body & Bath products. There is no minimum spend, and we offer a delivery by Royal Mail with a shipping cost option, or a free Local Collection option whereby locals can collect their goods for free from our TN25 address. We can also hand deliver to the TN24 & TN25 areas if you are in a hurry for your items. We offer a free gift wrapping service too, so we can post gifts to your loved ones for special occasions. "
+}
