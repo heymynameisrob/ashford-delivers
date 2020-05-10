@@ -1,0 +1,29 @@
+{
+  "safetyTips": "All staff trained in contactless delivery. No cash taken. Gloves, face masks, hand sanitiser and hand washing facilities are used in the shop when packing.",
+  "name": "STAG COFFEE & GROCERIES",
+  "phone": "07818418396",
+  "address": "Stag Coffee, 110 High Street, Ashford, TN24 8SD",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589128758/Untitled_rypf5u.png",
+  "tags": [
+    "Food",
+    "Veg Box",
+    "Vegan",
+    "Baked Goods",
+    "Alcohol",
+    "Meat",
+    "Dairy",
+    "Frozen Meals",
+    "Coffee"
+  ],
+  "website": "https://deliverylocal.co.uk/stores/stag-coffee/",
+  "deliveryHours": [
+    "Monday 08:30 - 19:00",
+    "Tuesday 08:30 - 19:00",
+    "Wednesday 08:30 - 19:00",
+    "Thursday 08:30 - 19:00",
+    "Friday 08:30 - 19:00",
+    "Saturday 08:30 - 19:00"
+  ],
+  "email": "info@stag-coffee.com",
+  "description": "Stag Coffee is a coffee shop in the heart of Ashford. Now a grocery, fresh food home delivery company working with local producers. We deliver all the essentials and luxuries you could need. No minimum spend, delivered by professional drivers. Next day delivery for all Ashford orders placed by 4pm. Order online."
+}
