@@ -1,0 +1,19 @@
+{
+  "safetyTips": "Card payments. Own delivery van.",
+  "name": "SIMPLY ICE CREAM LTD",
+  "phone": "01233720922",
+  "address": "The Nook, Boat Lane, Bonnington, Ashford, Kent, TN25 7BA",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589099146/Screen_Shot_2020-05-10_at_9.25.28_AM_sqhsac.png",
+  "tags": [
+    "Dairy",
+    "Ice Cream",
+    "Vegan"
+  ],
+  "website": "www.simplyicecream.co.uk",
+  "deliveryHours": [
+    "Wednesday 08:30 - 17:00",
+    "Thursday 08:30 - 17:00"
+  ],
+  "email": "info@simplyicecream.co.uk",
+  "description": "Simply Ice Cream produce luxury ice creams and sorbets in a variety of over 30 flavours using only the finest ingredients without any 'nasties'.  We supply a number of outlets across the South East with a number in Ashford. During this period, for those self isolating, we are also offering home delivery - minimum quantity of 6 x 500ml pots. Order by email or telephone with card payments. Delivery & Collection. "
+}
