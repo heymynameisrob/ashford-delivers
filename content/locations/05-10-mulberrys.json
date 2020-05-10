@@ -4,6 +4,13 @@
   "phone": "07841978748",
   "address": "Charing High Street , Charing, Kent, TN27 0HX",
   "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589125623/72B5D1D6-6093-46AF-89A1-D105FA310961_dkka3u.png",
+  "tags": [
+    "Food",
+    "Takeaway",
+    "Baked Goods",
+    "Vegan",
+    "Gluten & Dairy Free"
+  ],
   "website": "http://mulberrys.co/",
   "deliveryHours": [
     "Thursday 17:00 - 22:00 ",
