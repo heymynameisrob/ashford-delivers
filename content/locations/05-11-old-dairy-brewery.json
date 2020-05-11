@@ -1,0 +1,21 @@
+{
+  "safetyTips": "Deliveries are dropped on the doorstep to maintain safe distance.",
+  "name": "OLD DAIRY BREWERY",
+  "phone": "01580763867",
+  "address": "Station Yard, Tenterden, TN30 6HE ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589193922/WP_ODB_LOGO_RGB_mectxw.jpg",
+  "tags": [
+    "Beer",
+    "Alcohol"
+  ],
+  "website": "https://olddairybrewery.com/",
+  "deliveryHours": [
+    "Monday 8:00 - 17:00",
+    "Tuesday 8:00 - 17:00",
+    "Wednesday 8:00 - 17:00",
+    "Thursday 8:00 - 17:00",
+    "Friday 8:00 - 17:00"
+  ],
+  "email": "sales@olddairybrewery.com",
+  "description": "We are offering a free home delivery in a 15 mile radius of our base in Tenterden, for orders on one or more cases of bottles, or 5ltr drought packs. Orders can be placed online via our webshop or over the phone on 01580763867."
+}
