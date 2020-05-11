@@ -14,7 +14,7 @@ export const Nav = () => {
       <Button path={`mailto:${metadata.email}?subject=List Me`}>
         📍 List your location
       </Button>
-      <Button path="https://www.facebook.com/groups/2607836459447926/">
+      <Button path="https://www.facebook.com/groups/Ashforddelivers">
         🙌 Follow on Facebook
       </Button>
     </StyledNav>

@@ -18,5 +18,489 @@
     ],
     "description": "Jenkins and Son the fishmongers delivers fish and heat-and-eat dishes free to the local area. Call to order. Free home delivery on Wednesday, Thursday, Friday and Saturday to Deal, Sandwich and Dover area (min order £25) and to Folkestone, Canterbury and Thanet area (min order £50)",
     "id": "03-26-jenkins-son"
+  },
+  {
+    "safetyTips": "Contactless delivery and social distancing in restaurant for take aways",
+    "name": "TRATTORIA ROMANA",
+    "phone": "01233638033",
+    "address": "32 Bank Street Ashford Kent TN23 1BA",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1588944732/trattoria_romana_yeuwsz.jpg",
+    "tags": [
+      "Restaurant",
+      "Italian",
+      "Food"
+    ],
+    "website": "http://www.trattoriaromana.co.uk/",
+    "deliveryHours": [
+      "Tuesday 12:00 - 21.30",
+      "Wednesday 12:00 - 21.30",
+      "Thursday 12:00 - 21.30",
+      "Friday Tuesday 12:00 - 21.30",
+      "Saturday 12:00 - 21.30"
+    ],
+    "email": "trattorioaromana.ashford@hotmail.com",
+    "description": "Fine Italian dining take away and delivery service. Order via website or telephone.",
+    "id": "05-08-trattoria-romana"
+  },
+  {
+    "safetyTips": "Goods are stored in a separate room in the premises. Collections can be left outside the premises for customers to pick up. Deliveries are via Royal Mail in the main.",
+    "name": "BETSY & BLUE BOUTIQUE",
+    "address": "Mitchell's House, Kingsford Street, Mersham, Ashford, Kent, TN25 6PE",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589143786/thumbnail_IMG_9932_t5xgte.jpg",
+    "tags": [
+      "Gifts",
+      "Homewares",
+      "Clothing",
+      "Toiletries"
+    ],
+    "website": "https://www.betsyandblueboutique.co.uk/",
+    "deliveryHours": [
+      "Monday 10:00 - 17:00 (TN24 & TN25 only)",
+      "Tuesday 10:00 - 17:00 (TN24 & TN25 only)",
+      "Wednesday 10:00 - 17:00 (TN24 & TN25 only)",
+      "Thursday 10:00 - 17:00 (TN24 & TN25 only)",
+      "Friday 10:00 - 17:00 (TN24 & TN25 only)"
+    ],
+    "email": "info@betsyandblueboutique.co.uk",
+    "description": "Hi, we're Betsy & Blue Boutique; an online retail store specialising in gorgeous Gifts, Homeware, Accessories and Body & Bath products. There is no minimum spend, and we offer a delivery by Royal Mail with a shipping cost option, or a free Local Collection option whereby locals can collect their goods for free from our TN25 address. We can also hand deliver to the TN24 & TN25 areas if you are in a hurry for your items. We offer a free gift wrapping service too, so we can post gifts to your loved ones for special occasions. ",
+    "id": "05-10-betsy-blue-boutique"
+  },
+  {
+    "safetyTips": "Extra Cleaning procedures in place. Non contact doorstep Delivery.",
+    "name": "BETTY'S BROWNIES",
+    "phone": "07596647237",
+    "address": "The Ridgeway, Smeeth, Ashford, TN25 6SQ",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589125149/Untitled_rnq7zv.png",
+    "tags": [
+      "Cakes",
+      "Brownies",
+      "Baked Goods"
+    ],
+    "website": "https://bettys-brownies.myshopify.com",
+    "deliveryHours": [
+      "Collection or Post only.  Delivery coming soon."
+    ],
+    "email": "bettys_brownies@hotmail.com",
+    "description": "Baking a fantastic selection of Brownies and other goodies which can be Collected or popped in the post if you're a bit further afield. Delivery coming soon.",
+    "id": "05-10-bettys-brownies"
+  },
+  {
+    "safetyTips": "I make sure I keep 2m apart from anyone",
+    "name": "CHLOE MAY JEWELLERY",
+    "phone": "07712110557",
+    "address": "Kent",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589127082/DSC_0751_zwfllq.jpg",
+    "tags": [
+      "Jewellery",
+      "Gifts",
+      "Clothing"
+    ],
+    "website": "I hand make bespoke pieces of jewellery from my workshop in Ashford. I can help you design a piece of jewellery that is part of a love story, family history or friendship. I make engagement rings, cocktail rings, weddings rings, earrings, necklaces and other bespoke pieces. ",
+    "deliveryHours": [
+      "Monday 08:00 - 19:00",
+      "Tuesday 08:00 - 19:00",
+      "Wednesday 08:00 - 19:00",
+      "Thursday 08:00 - 19:00",
+      "Friday 08:00 - 19:00",
+      "Saturday 08:00 - 19:00",
+      "Sunday 08:00 - 19:00"
+    ],
+    "email": "info@chloemayjewellery.co.uk",
+    "description": "I handmake bespoke pieces of jewellery from my workshop in Ashford. I can help you design a piece of jewellery that is part of a love story, family history or friendship. I make engagement rings, cocktail rings, weddings rings, earrings, necklaces and other bespoke pieces. Order via email, phone, facebook, instagram.",
+    "id": "05-10-chloe-may-jewellery"
+  },
+  {
+    "safetyTips": "Post using Royal Mail or distanced collections from in store. ",
+    "name": "CRAFTSHIP ENTERPRISE CIC (MADE IN ASHFORD)",
+    "address": "Made in Ashford, Unit 26, Park Mall, Ashford, TN24 8NY",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589126719/Untitled_ypdwsm.png",
+    "tags": [
+      "Clothing",
+      "Gifts",
+      "Zero Waste",
+      "Garden",
+      "Homewares"
+    ],
+    "website": "https://www.madeinashford.com/",
+    "deliveryHours": [
+      "Collection or Postal Delivery only"
+    ],
+    "email": "info@madeinashford.com",
+    "description": "Made in Ashford is a collaborative of local designer/makers and crafts people selling and supporting each other.  We are run by Craftship Enterprise CIC, a social enterprise aiming to help creativity to be accessible to everyone in the community and support small, local, creative businesses. We sell the products of our members through our bricks and mortar shop and website. Craftship Enterprise shares free online workshops and creative activities to anyone in the world. These are paid for through commission generated on sales in the shop and online. Order Online. Collection or Postal Delivery.",
+    "id": "05-10-craftship-enterprise-cic-made-in-ashford"
+  },
+  {
+    "safetyTips": "PPE in production, deliveries via Royal Mail.",
+    "name": "DEBONAIR TEA COMPANY LTD",
+    "phone": "01303238093",
+    "address": "Unit 1, Shrine Barn, Sandling Road, Hythe, CT21 4HE",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589130877/Screen_Shot_2020-05-10_at_6.14.16_PM_ij1dvw.png",
+    "tags": [
+      "Tea",
+      "Zero Waste",
+      "Gifts"
+    ],
+    "website": "https://www.debonairtea.co.uk/",
+    "deliveryHours": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "email": "info@debonairtea.co.uk",
+    "description": "Debonair Tea Company are accredited tea experts based in Kent. We long believed it was possible to make high quality tea more accessible - at an honest price point - and set upon our mission to make exceptional tea a daily pleasure back in 2014.",
+    "id": "05-10-debonair-tea-company-ltd"
+  },
+  {
+    "safetyTips": "Contactless Delivery",
+    "name": "FISH INN",
+    "phone": "01233622228",
+    "address": "44c Brookfield Road, Ashford, Kent, TN23 4EZ",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589127883/Screen_Shot_2020-05-10_at_5.24.22_PM_tdyeqh.png",
+    "tags": [
+      "Food",
+      "Fish and Chips",
+      "Burgers",
+      "Chicken",
+      "Chips",
+      "Takeaway",
+      "Beer",
+      "Wine"
+    ],
+    "deliveryHours": [
+      "Monday 12:00 - 22:00",
+      "Tuesday 12:00 - 22:00",
+      "Wednesday 12:00 - 22:00",
+      "Thursday 12:00 - 22:00",
+      "Friday 12:00 - 22:00",
+      "Saturday 12:00 - 22:00",
+      "Sunday 12:00 - 22:00"
+    ],
+    "email": "shenufuk@gmail.com",
+    "description": "Treat yourself to a meal from Fish Inn today. We offer a wide range of dishes, including Fish & Chips, Burgers, Chicken plus wine, beer and more.   Don’t forget to let us know if you enjoyed your meal and FISH INN experience by leaving feedback. Bon appetite! Order by Phone for Delivery or Collection.",
+    "id": "05-10-fish-inn"
+  },
+  {
+    "safetyTips": "Social distancing, payment by BAC transfer.",
+    "name": "FORGET-ME-NOT-FLOWERS",
+    "phone": "07759307501",
+    "address": "Wingrove, Flood St. Mersham, Ashford, Kent, TN25 6NX",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589200778/06EE4055-53D9-487C-8C6E-0F725968DD43_anurky.jpg",
+    "tags": [
+      "Flowers",
+      "Garden",
+      "Plants"
+    ],
+    "website": "https://flowersforgetmenot.uk/",
+    "deliveryHours": [
+      "Monday 12:00 - 18:00",
+      "Wednesday 12:00 - 18:00",
+      "Friday 12:00 - 18:00",
+      "Saturday 12:00 - 18:00"
+    ],
+    "email": "nikchal@hotmail.com",
+    "description": "I am a local independent florist who works from Mersham Nr. Ashford .  I specialise in beautiful, bespoke flowers for all occasions, aiming to the personal floral requirements of my clients be it for a wedding, a funeral or other events. I also provide a seasonal basket and pot filling service.  Call to discuss any floral requirements free of charge and be assured of fair prices and knowledgeable advice.  Free deliveries within a five mile radius. Over five miles charged. ",
+    "id": "05-10-forget-me-not-flowers"
+  },
+  {
+    "safetyTips": "Please contact vendor for details",
+    "name": "JENNI ROGERS JEWELLERY",
+    "phone": "07870443542",
+    "address": "Headcorn area",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589144933/Untitled_Jenni_chlsna.png",
+    "tags": [
+      "Gifts",
+      "Jewellery"
+    ],
+    "website": "https://.www.jennirogersjewellery.com",
+    "deliveryHours": [
+      "Post or Collection Only"
+    ],
+    "email": "jenni@jennirogersjewellery.com",
+    "description": "I design and make jewellery using Semi precious stones, Sterling silver and pearls. All made in my workshop in Kent. Delivery by Post or Collection.",
+    "id": "05-10-jenni-rogers-jewellery"
+  },
+  {
+    "safetyTips": "Non contact Collection. Text when arrived. Order placed directly in boot of car.",
+    "name": "KENT COOKERY SCHOOL",
+    "phone": "07827774461",
+    "address": "The Courtyard, Hythe Road, Mersham, Ashford TN25 6NH",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589143773/Untitled_design-10_olmato.jpg",
+    "tags": [
+      "Food",
+      "Wine",
+      "Veg Box"
+    ],
+    "website": "https://kentcookeryschool.co.uk/about-us/food-sourcing-policy/",
+    "deliveryHours": [
+      "Collection Only. Collection usually between 13:30-15:30 Weds & 11:30-3:30pm Saturdays."
+    ],
+    "email": "produce@kentcookeryschool.co.uk",
+    "description": "Kent Cookery School is now offering a new service, Kent Cookery @ Home, which is a Collection Service for fresh and local produce. Non contact Collection - your order is placed directly in your car. Download the order form online and email to order. Collection usually between 13:30-15:30 Weds & 11:30-3:30pm Saturdays. *Live weekly tutorial videos, with James can also be found on our website.",
+    "id": "05-10-kent-cookery-school"
+  },
+  {
+    "safetyTips": "All our deliveries follow strict guidelines.",
+    "name": "MULBERRY'S",
+    "phone": "07841978748",
+    "address": "Charing High Street , Charing, Kent, TN27 0HX",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589125623/72B5D1D6-6093-46AF-89A1-D105FA310961_dkka3u.png",
+    "tags": [
+      "Food",
+      "Takeaway",
+      "Baked Goods",
+      "Vegan",
+      "Gluten & Dairy Free"
+    ],
+    "website": "http://mulberrys.co/",
+    "deliveryHours": [
+      "Thursday 17:00 - 22:00 ",
+      "Saturday 17:00 - 22:00 "
+    ],
+    "email": "sarah@mulberrys.co",
+    "description": "Mulberrys offer a selection of suppers to include main meals and puddings, all of which can be ordered as single portions or family portions. Takeaways ready to collect from our Tea Room from 5pm on either Thursday or Saturday. Local Delivery available. All orders must be booked the day before .   Mulberry’s also offer a wide range of foods including Afternoon teas, savory and home made cakes for celebrations . All our food is freshly prepared and sourced with in a 25 mile radius supporting local business .  *Our days for suppers will change in line with the demand and will be reviewed weekly .",
+    "id": "05-10-mulberrys"
+  },
+  {
+    "safetyTips": "Following the correct Covid guidelines: disposable gloves, sanitizer, no contact deliveries, online payment only NO CASH  ",
+    "name": "NESSIE'S KITCHEN",
+    "phone": "07584436601",
+    "address": "Old Church Way, Chartham, CT4 7TN ",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589145937/Screen_Shot_2020-05-10_at_10.25.21_PM_ejtrh2.png",
+    "tags": [
+      "Food",
+      "Cakes",
+      "Gluten & Dairy Free",
+      "Vegan"
+    ],
+    "website": "http://www.nessies.kitchen/",
+    "deliveryHours": [
+      "Monday 11:00 - 14:00",
+      "Tuesday 11:00 - 14:00",
+      "Wednesday 11:00 - 14:00",
+      "Thursday 11:00 - 14:00",
+      "Friday 11:00 - 14:00"
+    ],
+    "email": "nessie@nessies.kitchen",
+    "description": "Bespoke cakes, celebration cakes, brownies, cupcakes, afternoon tea... specialise in Gluten free, dairy free, vegan and regular. *Order Online or via Facebook page. Delivery or Collection.",
+    "id": "05-10-nessies-kitchen"
+  },
+  {
+    "safetyTips": "Contact Free",
+    "name": "PLURENDEN MANOR FARM",
+    "phone": "01233822084",
+    "address": "Plurenden Manor Farm, Plurenden Lane, High Halden, TN26 3JW",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589097700/Screen_Shot_2020-05-10_at_8.59.59_AM_n7xjku.png",
+    "tags": [
+      "Dairy",
+      "Food",
+      "Baked Goods",
+      "Veg Box",
+      "Bread"
+    ],
+    "website": "https://plurendenmilk.co.uk/",
+    "deliveryHours": [
+      "Monday 16:00 onwards ",
+      "Tuesday 16:00 onwards",
+      "Wednesday 16:00 onwards",
+      "Thursday 16:00 onwards",
+      "Friday 16:00 onwards",
+      "Saturday 16:00 onwards"
+    ],
+    "email": "orders@plurendenmilk.co.uk",
+    "description": "Family run farm, producing multi-award winning milk & dairy products. Situated in the heart of The Garden of England, Kent, offering doorstep delivery of variety of goods. ",
+    "id": "05-10-plurenden-manor-farm"
+  },
+  {
+    "safetyTips": "We use Royal mail and APC Wilkinsons for our delivery service who adhere to the government social distancing measures.  For collections they are placed outside in our collection box, so there is no interaction with customers.  In the office we use sanitising gels.",
+    "name": "ROMNEY MARSH WOOLS",
+    "phone": "01233721800",
+    "address": "Rushfield, Giggers Green Road, Aldington, Ashford, Kent, TN25 7BT",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589145873/Screen_Shot_2020-05-10_at_10.24.15_PM_zsbe65.png",
+    "tags": [
+      "Gifts",
+      "Clothing",
+      "Homeware"
+    ],
+    "website": "https//www.romneymarshwools.co.uk",
+    "deliveryHours": [
+      "Monday 09:00 - 18:00",
+      "Tuesday 09:00 - 18:00",
+      "Wednesday 09:00 - 18:00",
+      "Thursday 09:00 - 18:00",
+      "Friday 09:00 - 18:00"
+    ],
+    "email": "info@romneymarshwools.co.uk",
+    "description": "Romney Marsh Wools is owned and run by Kristina & Paul Boulden and was born through a firm belief in raising the awareness of all the benefits wool can bring.  A wide range of products are produced using their own Romney wool including throws, clothing, gifts, toiletries and much more. Available for Delivery & Collection.",
+    "id": "05-10-romney-marsh-wools"
+  },
+  {
+    "safetyTips": "Card payments. Own delivery van.",
+    "name": "SIMPLY ICE CREAM LTD",
+    "phone": "01233720922",
+    "address": "The Nook, Boat Lane, Bonnington, Ashford, Kent, TN25 7BA",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589124236/Untitled_dn5fj2.png",
+    "tags": [
+      "Dairy",
+      "Ice Cream",
+      "Vegan"
+    ],
+    "website": "https://www.simplyicecream.co.uk/",
+    "deliveryHours": [
+      "Wednesday 08:30 - 17:00",
+      "Thursday 08:30 - 17:00"
+    ],
+    "email": "info@simplyicecream.co.uk",
+    "description": "Simply Ice Cream produce luxury ice creams and sorbets in a variety of over 30 flavours using only the finest ingredients without any 'nasties'.  We supply a number of outlets across the South East with a number in Ashford. During this period, for those self isolating, we are also offering home delivery - minimum quantity of 6 x 500ml pots. Order by email or telephone with card payments. Delivery & Collection. ",
+    "id": "05-10-simply-ice-cream-ltd"
+  },
+  {
+    "safetyTips": "All staff trained in contactless delivery. No cash taken. Gloves, face masks, hand sanitiser and hand washing facilities are used in the shop when packing.",
+    "name": "STAG COFFEE & GROCERIES",
+    "phone": "07818418396",
+    "address": "Stag Coffee, 110 High Street, Ashford, TN24 8SD",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589144180/Untitled_2_bakisi.png",
+    "tags": [
+      "Food",
+      "Veg Box",
+      "Vegan",
+      "Baked Goods",
+      "Alcohol",
+      "Meat",
+      "Dairy",
+      "Frozen Meals",
+      "Coffee",
+      "Flour"
+    ],
+    "website": "https://deliverylocal.co.uk/stores/stag-coffee/",
+    "deliveryHours": [
+      "Monday 08:30 - 19:00",
+      "Tuesday 08:30 - 19:00",
+      "Wednesday 08:30 - 19:00",
+      "Thursday 08:30 - 19:00",
+      "Friday 08:30 - 19:00",
+      "Saturday 08:30 - 19:00"
+    ],
+    "email": "info@stag-coffee.com",
+    "description": "Stag Coffee is a coffee shop in the heart of Ashford. Now a grocery, fresh food home delivery company working with local producers. We deliver all the essentials and luxuries you could need. No minimum spend, delivered by professional drivers. Next day delivery for all Ashford orders placed by 4pm. Order online.",
+    "id": "05-10-stag-coffee-groceries"
+  },
+  {
+    "safetyTips": "There is no access to pub itself. Food orders are given a collection time that we ask people to adhere to. There is ample outside space to queue. Please do not use the seating area in front of the pub. ",
+    "name": "THE DOG HOUSE",
+    "phone": "07340985064",
+    "address": "The Dog House, Evegate, Station Road, Smeeth, Ashford, TN25 6SX",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589223008/Untitled_4_dossm7.png",
+    "tags": [
+      "Takeway",
+      "Beer",
+      "Cider",
+      "Food"
+    ],
+    "website": "https://thedoghousepub.co.uk/",
+    "deliveryHours": [
+      "Monday 17:00 - 19:00 Collection Only (Food only Fri & Sat eve)",
+      "Tuesday 17:00 - 19:00 Collection Only (Food only Fri & Sat eve)",
+      "Wednesday 17:00 - 19:00 Collection Only (Food only Fri & Sat eve)",
+      "Thursday 17:00 - 19:00 Collection Only (Food only Fri & Sat eve)",
+      "Friday 17:00 - 19:00 Collection Only ",
+      "Saturday 12:00 - 14:00 and 17:00 - 19:00 Collection Only ",
+      "Sunday 12:00 - 14:00 Collection Only (Food only Fri & Sat eve)"
+    ],
+    "email": "info@thedoghousepub.co.uk",
+    "description": "Open for takeaway local ale and ciders all week. Friday evening for takeaway homemade pizza and Saturday evening for burgers. Follow our Facebook page for updates and ordering. ",
+    "id": "05-10-the-dog-house"
+  },
+  {
+    "safetyTips": "No contact delivery",
+    "name": "TIMEOUT BAGS",
+    "pdf": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589193602/A2579FAD-E2A9-43F1-9317-16847E37DC73_rloo1v.jpg",
+    "address": "Mersham, TN25 6NU",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589193573/fullsizeoutput_ff5b_onctgq.jpg",
+    "tags": [
+      "Gifts",
+      "Children"
+    ],
+    "website": "https://www.timeoutbags.com/",
+    "deliveryHours": [
+      "Monday 09:00 - 17:00",
+      "Tuesday 09:00 - 17:00",
+      "Wednesday 09:00 - 17:00",
+      "Thursday 09:00 - 17:00",
+      "Friday 09:00 - 17:00"
+    ],
+    "email": "alix@alixcussins.com",
+    "description": "Lockdown Activity Packs to cheer up kids in isolation, designed to motivate young creators and engage busy minds.  Each Activity Pack is crammed with 8 engaging activities, books, toys, games and snacks, delivered safely to your door. *Use code 'AshfordDelivers' at checkout, for collection orders from our no contact delivery box located at TN25 6NU. Deliveries can be arranged for a fee by selecting DPD or Hermes at checkout.",
+    "id": "05-10-timeout-bags"
+  },
+  {
+    "safetyTips": "Socially distant delivery can be made - wine will be left on doorstep & bell rung to ensure safe receipt. ",
+    "name": "BRABOURNE WINE",
+    "phone": "01303814432",
+    "address": "Brabourne Vineyard, The Street, East Brabourne, Nr.Ashford, TN25 5LR",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589180180/Screen_Shot_2020-05-11_at_7.56.03_AM_klaciz.png",
+    "tags": [
+      "Wine",
+      "Alcohol"
+    ],
+    "website": "https://brabournewine.com/",
+    "deliveryHours": [
+      "Monday 9:00 - 17:00",
+      "Tuesday 9:00 - 17:00",
+      "Wednesday 9:00 - 17:00",
+      "Thursday 9:00 - 17:00",
+      "Friday 9:00 - 17:00",
+      "Saturday 9:00 - 17:00",
+      "Sunday 9:00 - 17:00"
+    ],
+    "email": "enquiries@brabournewine.com",
+    "description": "We're a boutique, family-run vineyard just outside Ashford in the small village of Brabourne. Currently we have just one wine on sale - a crisp, dry, still Rose, made purely from Pinot Noir grapes, perfect for a hot summer's day. During lock-down we're offering free delivery within ten miles of the vineyard.  Order via the website shop.",
+    "id": "05-11-brabourne-wine"
+  },
+  {
+    "safetyTips": "Contactless delivery. We follow all government guidelines.",
+    "name": "CASCADE BUSINESS SUPPLIES LTD",
+    "phone": "08003895551",
+    "address": "Unit 18 Foster Road, Ashford Business Park, Sevington, Kent TN24 0FE",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589212732/Depositphotos_1095035_l-2015_a6nmch.jpg",
+    "tags": [
+      "Stationary",
+      "Printing"
+    ],
+    "website": "http://www.cascade.uk.com/",
+    "deliveryHours": [
+      "Monday 9:00 - 17:30",
+      "Tuesday 9:00 - 17:30",
+      "Wednesday 9:00 - 17:30",
+      "Thursday 9:00 - 17:30",
+      "Friday 9:00 - 17:30"
+    ],
+    "email": "sales@cascade.uk.com",
+    "description": "Business supplies, Stationery and Printing. Ink cartridges, paper and pens. You can email what you need printing and we can drop it round to your home or business address. Order by telephone or email.",
+    "id": "05-11-cascade-business-supplies-ltd"
+  },
+  {
+    "safetyTips": "Deliveries are dropped on the doorstep to maintain safe distance.",
+    "name": "OLD DAIRY BREWERY",
+    "phone": "01580763867",
+    "address": "Station Yard, Tenterden, TN30 6HE ",
+    "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589222946/Untitled_2_k9wdsv.png",
+    "tags": [
+      "Beer",
+      "Alcohol"
+    ],
+    "website": "https://olddairybrewery.com/",
+    "deliveryHours": [
+      "Monday 8:00 - 17:00",
+      "Tuesday 8:00 - 17:00",
+      "Wednesday 8:00 - 17:00",
+      "Thursday 8:00 - 17:00",
+      "Friday 8:00 - 17:00"
+    ],
+    "email": "sales@olddairybrewery.com",
+    "description": "We are offering a free home delivery in a 15 mile radius of our base in Tenterden, for orders on one or more cases of bottles, or 5ltr drought packs. Orders can be placed online via our webshop or over the phone on 01580763867.",
+    "id": "05-11-old-dairy-brewery"
   }
 ]

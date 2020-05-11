@@ -86,10 +86,10 @@ export const LocationCard = ({ details, children, ...rest }) => {
         {safetyTips && <li onClick={() => postModalContent(safetyTips)}><AlertCircle /><p>Safety tips</p></li>}
       </LocationCardPropList>
       <StyledCardLinks>
-        {website && isURL(website) && <li><StyledCardLinkItem href={`${website}`}>🔗 Go to website</StyledCardLinkItem></li>}
-        {email && isEmail(email) && <li><StyledCardLinkItem href={`mailto:${email}`}>✉️ Email us</StyledCardLinkItem></li>}
-        {phone && <li><StyledCardLinkItem href={`tel://${phone.replace(/\s/g, '')}`}>{`🤙 Call ${formatPhone(phone)}`}</StyledCardLinkItem></li>}
-        {file && <li><StyledCardLinkItem href={`/uploads/${file}`}>📃 Download PDF</StyledCardLinkItem></li>}
+        {website && isURL(website) && <li><StyledCardLinkItem target="_blank" href={`${website}`}>🔗 Go to website</StyledCardLinkItem></li>}
+        {email && isEmail(email) && <li><StyledCardLinkItem target="_blank" href={`mailto:${email}`}>✉️ Email us</StyledCardLinkItem></li>}
+        {phone && <li><StyledCardLinkItem target="_blank" href={`tel://${phone.replace(/\s/g, '')}`}>{`🤙 Call ${formatPhone(phone)}`}</StyledCardLinkItem></li>}
+        {file && <li><StyledCardLinkItem target="_blank" href={`/uploads/${file}`}>📃 Download PDF</StyledCardLinkItem></li>}
       </StyledCardLinks>
     </StyledCard>
   )
