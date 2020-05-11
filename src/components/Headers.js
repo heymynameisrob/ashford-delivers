@@ -11,7 +11,7 @@ import logo from '../logo.svg';
 export const Nav = () => {
   return (
     <StyledNav role="navigation">
-      <Button path={`mailto:${metadata.email}?subject=List Me`}>
+      <Button path={'https://docs.google.com/forms/d/e/1FAIpQLScL5Dseq38HLLZ0NBE_aFID-PFcA6s4LXJqViV_XXPNd5aGpQ/viewform'}>
         📍 List your location
       </Button>
       <Button path="https://www.facebook.com/groups/Ashforddelivers">
