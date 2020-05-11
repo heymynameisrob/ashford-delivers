@@ -1,0 +1,23 @@
+{
+  "safetyTips": "Socially distant delivery can be made - wine will be left on doorstep & bell rung to ensure safe receipt. ",
+  "name": "BRABOURNE WINE",
+  "phone": "01303814432",
+  "address": "Brabourne Vineyard, The Street, East Brabourne, Nr.Ashford, TN25 5LR",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589179976/Brabourne_Vineyard_RGB_horizontal_AW_kwjqvc.jpg",
+  "tags": [
+    "Wine",
+    "Alcohol"
+  ],
+  "website": "https://brabournewine.com/",
+  "deliveryHours": [
+    "Monday 9:00 - 17:00",
+    "Tuesday 9:00 - 17:00",
+    "Wednesday 9:00 - 17:00",
+    "Thursday 9:00 - 17:00",
+    "Friday 9:00 - 17:00",
+    "Saturday 9:00 - 17:00",
+    "Sunday 9:00 - 17:00"
+  ],
+  "email": "enquiries@brabournewine.com",
+  "description": "We're a boutique, family-run vineyard just outside Ashford in the small village of Brabourne. Currently we have just one wine on sale - a crisp, dry, still Rose, made purely from Pinot Noir grapes, perfect for a hot summer's day. During lock-down we're offering free delivery within ten miles of the vineyard.  Order via the website shop."
+}
