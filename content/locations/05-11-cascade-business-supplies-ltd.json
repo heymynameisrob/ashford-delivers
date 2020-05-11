@@ -1,0 +1,21 @@
+{
+  "safetyTips": "Contactless delivery. We follow all government guidelines.",
+  "name": "CASCADE BUSINESS SUPPLIES LTD",
+  "phone": "08003895551",
+  "address": "Unit 18 Foster Road, Ashford Business Park, Sevington, Kent TN24 0FE",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589212732/Depositphotos_1095035_l-2015_a6nmch.jpg",
+  "tags": [
+    "Stationary",
+    "Printing"
+  ],
+  "website": "http://www.cascade.uk.com/",
+  "deliveryHours": [
+    "Monday 9:00 - 17:30",
+    "Tuesday 9:00 - 17:30",
+    "Wednesday 9:00 - 17:30",
+    "Thursday 9:00 - 17:30",
+    "Friday 9:00 - 17:30"
+  ],
+  "email": "sales@cascade.uk.com",
+  "description": "Business supplies, Stationery and Printing. Ink cartridges, paper and pens. You can email what you need printing and we can drop it round to your home or business address. Order by telephone or email."
+}
