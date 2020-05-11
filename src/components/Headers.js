@@ -26,7 +26,7 @@ export const HeroHeader = ({ search }) => {
     <StyledHeroHeader role="banner" style={{ backgroundImage: `url(/images/Header@2x.png)` }}>
       <Container>
         {metadata.hasLogo ? <SVG src={logo} style={{ margin: '1.5rem 0', maxWidth: '100%' }} /> : <h1>{metadata.name}</h1>}
-        <p>Helping the highstreet with local restaurants, shops & essential services that deliver direct to your door</p>
+        <p>Discover local restaurants, shops & essential services that deliver, or are open for collection</p>
         <LocationSearch />
       </Container>
     </StyledHeroHeader >
