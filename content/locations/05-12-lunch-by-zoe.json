@@ -1,0 +1,22 @@
+{
+  "safetyTips": "We are cleaning the van with antibacterial wipes between each stop, using hand sanitizer and only accepting contactless payment.",
+  "name": "LUNCH BY ZOE",
+  "phone": "07854497045",
+  "address": "Northumberland Avenue, Ashford, TN24 9QF",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589308459/lunchbyzoe_iqugqs.jpg",
+  "tags": [
+    "Food",
+    "Cake",
+    "Pastries",
+    "Snacks"
+  ],
+  "deliveryHours": [
+    "Monday 9:00 - 12:00",
+    "Tuesday 9:00 - 12:00",
+    "Wednesday 9:00 - 12:00",
+    "Thursday 9:00 - 12:00",
+    "Friday 9:00 - 12:00"
+  ],
+  "email": "zoe.a.collier@hotmail.co.uk",
+  "description": "Mobile refrigerated sandwich van offering fresh baguettes, sandwiches and salad boxes made daily, along with hot pastries- jumbo sausage rolls and home made pasties - in the onboard oven. We also sell crisps, chocolate, drinks and homemade cakes,  and are able to provide buffet lunches. Order by telephone or email. "
+}
