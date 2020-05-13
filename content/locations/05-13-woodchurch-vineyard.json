@@ -1,0 +1,21 @@
+{
+  "safetyTips": "No contact delivery service",
+  "name": "WOODCHURCH VINEYARD",
+  "phone": "07769693935",
+  "address": "Susan's Hill, Woodchurch, TN26 3RE",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589372737/landscape_qwy3vc.jpg",
+  "tags": [
+    "Wine",
+    "Alcohol"
+  ],
+  "website": "https://woodchurchwine.co.uk/",
+  "deliveryHours": [
+    "Monday 9:00 - 18:00",
+    "Tuesday 9:00 - 18:00",
+    "Wednesday 9:00 - 18:00",
+    "Thursday 9:00 - 18:00",
+    "Friday 9:00 - 18:00"
+  ],
+  "email": "info@woodchurchwine.co.uk",
+  "description": "Winners of the best wine in Kent 2020. We're a boutique vineyard near the village of Woodchurch. We produce award winning sparkling and still wines all made from grapes grown on our single estate vineyard. We offer FREE local delivery and FREE UK wide delivery on orders over £60. Order online."
+}
