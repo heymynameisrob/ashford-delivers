@@ -4,6 +4,11 @@
   "phone": "01233 721628",
   "address": "Foodari Home Delivery, Howletts Farm, CT4 8HW",
   "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589362460/Screen_Shot_2020-05-13_at_10.34.04_AM_dtgoc2.png",
+  "tags": [
+    "Food",
+    "Veg Box",
+    "Dairy"
+  ],
   "website": "https://foodarihomedelivery.com/",
   "deliveryHours": [
     "Monday 7:00 - 15:00",
