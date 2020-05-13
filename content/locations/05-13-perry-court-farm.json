@@ -4,6 +4,13 @@
   "phone": "01233812302",
   "address": "Canterbury Road, Wye, Ashford, Kent, TN25 4ES",
   "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589362266/Screen_Shot_2020-05-13_at_10.30.47_AM_ivfc37.png",
+  "tags": [
+    "Food",
+    "Fruit",
+    "Veg",
+    "Veg Box",
+    "Groceries"
+  ],
   "website": "https://www.perrycourt.farm/",
   "deliveryHours": [
     "Monday",
