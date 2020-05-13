@@ -4,6 +4,11 @@
   "phone": "07717441904",
   "address": "54 Albert Road, Ashford, Kent, TN24 8NU",
   "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589362848/IMG_1634_nv4n4w.jpg",
+  "tags": [
+    "Food",
+    "Gluten & Dairy Free",
+    "Cakes"
+  ],
   "website": "http://www.no54vintageteas.co.uk/",
   "deliveryHours": [
     "Monday 11:00 - 19:00",
