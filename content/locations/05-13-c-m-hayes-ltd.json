@@ -1,0 +1,26 @@
+{
+  "safetyTips": "Delivery is placed on your doorstep, driver will knock and move away. Hand sanitisers in every van. ",
+  "name": "C & M HAYES LTD",
+  "phone": "01304820366",
+  "address": "The Farm Store, Waldershare Road, Ashley, Dover, Kent, CT15 5HZ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589388977/logo_s68kkk.png",
+  "tags": [
+    "Food",
+    "Veg Box",
+    "Dairy",
+    "Bread",
+    "Flour",
+    "Coffee",
+    "Tea"
+  ],
+  "website": "https://cmhayes.shop/",
+  "deliveryHours": [
+    "Monday 08:00 - 15:00",
+    "Tuesday 08:00 - 15:00",
+    "Wednesday 08:00 - 15:00",
+    "Thursday 08:00 - 15:00",
+    "Friday 08:00 - 15:00"
+  ],
+  "email": "orders@cmhayes.co.uk",
+  "description": "We are a fruit and veg wholesaler gone corner shop online. We are offering fruit, veg and salad to tea, coffee and biscuits. Delivery and collection, based in Dover. Order online or via phone."
+}
