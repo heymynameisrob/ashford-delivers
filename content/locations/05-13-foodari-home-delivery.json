@@ -1,0 +1,18 @@
+{
+  "safetyTips": "Contactless Delivery. Special Instruction Drop Off.",
+  "name": "FOODARI HOME DELIVERY",
+  "phone": "01233 721628",
+  "address": "Foodari Home Delivery, Howletts Farm, CT4 8HW",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589362460/Screen_Shot_2020-05-13_at_10.34.04_AM_dtgoc2.png",
+  "website": "https://foodarihomedelivery.com/",
+  "deliveryHours": [
+    "Monday 7:00 - 15:00",
+    "Tuesday 7:00 - 15:00",
+    "Wednesday 7:00 - 15:00",
+    "Thursday 7:00 - 15:00",
+    "Friday 7:00 - 15:00",
+    "Saturday 7:00 - 15:00"
+  ],
+  "email": "sales@foodari.com",
+  "description": "Here at Foodari Home Delivery we supply a range of Fruit & Vegetable Boxes direct to your door 6 days a week. We also have a range of Dairy and Essentials available as well as a selection of Meal Boxes.  Based on Farm in Molash we work with our local growers to ensure we deliver superior produce with low food miles."
+}
