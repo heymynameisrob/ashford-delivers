@@ -1,0 +1,22 @@
+{
+  "safetyTips": "We maintain strict hygiene, such as frequent handwashing and using gloves so that we don't handle food with bare hands. We offer contactless delivery and our drivers monitor their health carefully to notice any potential symptoms early on.",
+  "name": "BLOOMER BAKERY",
+  "address": "14 County Square, Ashford, TN23 1YB",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589462656/BB_Logo_328x287x72_h4mpgc.png",
+  "tags": [
+    "Cakes",
+    "Bread",
+    "Baked Goods"
+  ],
+  "website": "https://bloomerbakery.co.uk/",
+  "deliveryHours": [
+    "Monday 9:00 - 12:00",
+    "Tuesday 9:00 - 12:00",
+    "Wednesday 9:00 - 12:00",
+    "Thursday 9:00 - 12:00",
+    "Friday 9:00 - 12:00",
+    "Saturday 9:00 - 12:00"
+  ],
+  "email": "sales@bloomerbakery.ltd",
+  "description": "We deliver sweet and savoury baked goods, such as pasties, cakes, doughnuts and more. We also have a wide range of bread as well as some of the basic grocery essentials such as flour, milk and eggs. And we offer next day delivery for orders placed before 5pm! Order online."
+}
