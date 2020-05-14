@@ -1,0 +1,22 @@
+{
+  "safetyTips": "Social distancing and contactless delivery.",
+  "name": "THAISO CATERING LTD",
+  "phone": "07564159643",
+  "address": "Chennells, Ashford Road, High Halden, Kent, TN26 3NA",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589470874/Asset_2white_pmjpau.jpg",
+  "tags": [
+    "Food",
+    "Takeaway",
+    "Thai",
+    "Street Food"
+  ],
+  "website": "https://www.thaisocatering.co.uk",
+  "deliveryHours": [
+    "Tuesday 18:00 - 20:30",
+    "Wednesday 18:00 - 20:30",
+    "Friday 18:00 - 20:30",
+    "Saturday 18:00 - 20:30"
+  ],
+  "email": "tom@thaisocatering.co.uk",
+  "description": "ThaiSo Catering delivers delicious and authentic hot Thai food to your doorstep around the Ashford (TN26 and TN24) area (more postcodes coming soon). We are a family-run business with full social distancing measures in place. In more normal times we also provide event catering services with our attractive catering trailer. You can order online on our website or call Tom on 07564 159643."
+}
