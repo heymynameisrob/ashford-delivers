@@ -1,0 +1,16 @@
+{
+  "safetyTips": "Contactless online payment by card only. \"Knock\" & drop delivery",
+  "name": "SOLLEY'S ICE CREAM",
+  "address": "Solley's Ice Cream Parlour, The Dairy, Church Lane, Deal, CT14 8JL",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589482232/IMG_5173_bzvxp2.jpg",
+  "tags": [
+    "Ice Cream",
+    "Food"
+  ],
+  "website": "https://www.solleysicecream.co.uk/",
+  "deliveryHours": [
+    "Friday 10:00 - 18:00"
+  ],
+  "email": "orders@solleysicecream.co.uk",
+  "description": "Solley's Ice Cream delivers to the Ashford area on a Friday.  Minimum order 2 x 750ml tubs or 1 x box 120ml cups with free delivery.  The full list of flavours & prices can be found on our website and is updated weekly. Order via email only."
+}
