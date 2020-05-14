@@ -1,0 +1,24 @@
+{
+  "safetyTips": "Contactless local delivery to your doorstep.",
+  "name": "THE SCIENCE LADY",
+  "address": "Sherwood Close, Ashford, TN24 9PT ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589461916/7E2A7515-49DC-4BBD-A376-EA312DEA3DD1_lgowf7.jpg",
+  "tags": [
+    "Gifts",
+    "Children",
+    "Education",
+    "Children's Bookstore"
+  ],
+  "website": "https://www.thesciencelady.co.uk/",
+  "deliveryHours": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday ",
+    "Saturday",
+    "Sunday"
+  ],
+  "email": "thesciencelady@outlook.com",
+  "description": "I offer science tuition (currently online, but in normal times face to face!) and am currently delivering science activity boxes for children aged 5+. The box contains everything you need to carry out six brilliant experiments! Order online."
+}
