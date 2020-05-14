@@ -1,0 +1,25 @@
+{
+  "safetyTips": "To help with social distancing we are only allowing two customers in the shop at one time. Occasionally there may be a queue outside of the shop but generally there’s only one or two people waiting. To help reduce the spread of the virus we sanitise surfaces, door handles and fridge/freezer handles regularly throughout the day.",
+  "name": "POTTEN FARM SHOP",
+  "phone": "01303814804",
+  "address": "Potten Farm, Main Road, Sellindge, Kent, TN25 6EQ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589482607/Screen_Shot_2020-05-14_at_7.56.14_PM_sprqja.png",
+  "tags": [
+    "Food",
+    "Fruit",
+    "Veg",
+    "Veg Box"
+  ],
+  "website": "http://www.pottenfarmshop.co.uk/",
+  "deliveryHours": [
+    "Monday 9:00 - 17:00 COLLECTION ONLY",
+    "Tuesday 9:00 - 17:00 COLLECTION ONLY",
+    "Wednesday 9:00 - 17:00 COLLECTION ONLY",
+    "Thursday 9:00 - 17:00 COLLECTION ONLY",
+    "Friday 9:00 - 17:00 COLLECTION ONLY",
+    "Saturday 9:00 - 17:00 COLLECTION ONLY",
+    "Sunday 9:00 - 16:00 COLLECTION ONLY"
+  ],
+  "email": "pottenfarmshop@yahoo.co.uk",
+  "description": "We are a family run business which opened in 1999. Our emphasis is on fresh, seasonal, high quality produce. Our range includes a wide selection of Fruit and Vegetables with fresh daily bread and cakes. Theres so much more and we recommend that you visit us to see for yourselves! Available for Collection Only.  Set produce bags are available to order and pay for over the phone, then collected from the car park. "
+}
