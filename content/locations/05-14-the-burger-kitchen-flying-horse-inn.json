@@ -1,0 +1,29 @@
+{
+  "safetyTips": "Social distancing, free sanitiser, gloves and PPE",
+  "name": "THE BURGER KITCHEN - FLYING HORSE INN",
+  "phone": "01233349055",
+  "address": "The flying horse, Boughton Aluph, TN25 4HH ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589462432/B2F625AD-7777-422A-85C1-D9846A968092_s2elps.jpg",
+  "tags": [
+    "Food",
+    "Burgers",
+    "Butchers",
+    "Groceries",
+    "Flour",
+    "Coffee",
+    "Dairy",
+    "Takeaway",
+    "Veg Box",
+    "Vegan",
+    "Beer"
+  ],
+  "website": "https://www.theburgerkitchen.co.uk/",
+  "deliveryHours": [
+    "Wednesday 16:00 - 20:00",
+    "Thursday 16:00 - 20:00",
+    "Friday 16:00 - 20:00",
+    "Saturday 16:00 - 20:00",
+    "Sunday 16:00 - 20:00"
+  ],
+  "description": "Pop up shop - food delivery - takeaway "
+}
