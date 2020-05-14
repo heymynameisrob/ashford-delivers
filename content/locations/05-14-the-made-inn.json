@@ -1,0 +1,24 @@
+{
+  "safetyTips": "Contactless delivery, strict physical distance policy in place at the pub. ",
+  "name": "THE MADE INN",
+  "address": "10 New Rents, Ashford, Kent, TN23 6LU",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589471179/TMI_Profile_k3xc3x.jpg",
+  "tags": [
+    "Beer",
+    "Alcohol",
+    "Pub",
+    "Cider"
+  ],
+  "website": "https://madeinnco.co.uk/",
+  "deliveryHours": [
+    "Monday - All orders placed before 3pm will be delivered same evening",
+    "Tuesday - All orders placed before 3pm will be delivered same evening",
+    "Wednesday - All orders placed before 3pm will be delivered same evening",
+    "Thursday - All orders placed before 3pm will be delivered same evening",
+    "Friday - All orders placed before 3pm will be delivered same evening",
+    "Saturday - All orders placed before 3pm will be delivered same evening",
+    "Sunday - All orders placed before 3pm will be delivered same evening"
+  ],
+  "email": "steve@madeinnco.co.uk",
+  "description": "The Made Inn, Your community, Your craft pub.  We are currently delivering to any Ashford borough postcode through our website www.madeinnco.co.uk. Contactless delivery is provided by the pubs landlord. There is no minimum spend on the website, you can also opt to collect your order from us in the town centre.   All orders placed before 3pm will be delivered same evening.   In addition to the delivery service, we are open from Friday through to Sunday 11am - 2pm as a bottle shop / off license with over 60 different craft beers & ciders on offer in both packaged & draught. "
+}
