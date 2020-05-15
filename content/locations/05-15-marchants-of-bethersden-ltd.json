@@ -1,0 +1,25 @@
+{
+  "safetyTips": "Maintaining two metres, even when delivering, and over the phone payment by Card.",
+  "name": "MARCHANTS OF BETHERSDEN LTD",
+  "phone": "01233822491",
+  "address": "Marchants, The Street, Bethersden, TN26 3AD",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589563512/IMG_20200426_141921_wudwl8.jpg",
+  "tags": [
+    "Butchers",
+    "Veg",
+    "Food",
+    "Groceries",
+    "Deli"
+  ],
+  "website": "https://marchants-bethersden.com/",
+  "deliveryHours": [
+    "Monday 10:00 - 15:00",
+    "Tuesday 10:00 - 15:00",
+    "Wednesday 10:00 - 15:00",
+    "Thursday 10:00 - 15:00",
+    "Friday 10:00 - 15:00",
+    "Saturday 10:00 - 15:00"
+  ],
+  "email": "info@marchants-bethersden.com",
+  "description": "We are a Butchers, Deli and Grocery Shop based in Bethersden. We are doing local deliveries free of charge in our own, refrigerated vans to local area with-in 15 miles radius of the shop. You can also collect from the shop and pay on Collection. Order by phone or on our website."
+}
