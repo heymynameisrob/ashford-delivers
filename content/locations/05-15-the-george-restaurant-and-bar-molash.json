@@ -1,0 +1,23 @@
+{
+  "safetyTips": "Contactless delivery and collection.",
+  "name": "THE GEORGE RESTAURANT AND BAR MOLASH",
+  "phone": "01233740323",
+  "address": "The Street, Molash, Kent, CT4 8HE ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589539805/B90F7852-E136-47FB-A87B-8CB263F34084_i3m9t1.jpg",
+  "tags": [
+    "Food",
+    "Restaurant",
+    "Pub"
+  ],
+  "website": "https://www.facebook.com/thegeorgerestaurantmolash/",
+  "deliveryHours": [
+    "Monday 17:00 - 21:00",
+    "Wednesday 17:00 - 21:00",
+    "Thursday 17:00 - 21:00",
+    "Friday 17:00 - 21:00",
+    "Saturday 17:00 - 21:00",
+    "Sunday 12:00 - 17:00"
+  ],
+  "email": "thegeorgeinnmolash@hotmail.co.uk",
+  "description": "We are a family run restaurant offering home cooked dishes using locally sourced produce. We offer delivery (Free within a 5mile radius) or collection. Order by phone."
+}
