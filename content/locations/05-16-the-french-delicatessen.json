@@ -1,0 +1,20 @@
+{
+  "safetyTips": "We deliver on the door step and we use contactless payment.",
+  "name": "THE FRENCH DELICATESSEN",
+  "phone": "07817521312",
+  "address": "TN23 4YZ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589639224/Logo_A4_tguhuw.ai",
+  "tags": [
+    "Cheese",
+    "Olives",
+    "Food"
+  ],
+  "website": "https://www.facebook.com/TheFrenchDelicatessen/",
+  "deliveryHours": [
+    "Wednesday 10:00 - 18:00",
+    "Thursday 10:00 - 18:00",
+    "Friday 10:00 - 18:00"
+  ],
+  "email": "eric@thefrenchdelicatessen.co.uk",
+  "description": "The French Delicatessen is a small local company present on a lot of Farmer's Market in Kent and East Sussex. We provide French products such as cheese, olives, garlic, saucissons, and more. Order via email or Facebook Page."
+}
