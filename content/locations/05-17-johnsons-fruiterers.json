@@ -1,0 +1,23 @@
+{
+  "safetyTips": "We have social distancing measures in place at our shop and offer contactless payments and deliveries.",
+  "name": "JOHNSONS FRUITERERS",
+  "phone": "01797222133",
+  "address": "Unit G7, Atlas Business Park, Harbour Road, Rye, TN31 7TE",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589721785/JohnsonsFruiterersLogo1501259_plaksd.jpg",
+  "tags": [
+    "Fruit",
+    "Veg Box",
+    "Dairy",
+    "Food"
+  ],
+  "website": "https://johnsonsfruiterers.wixsite.com/mysite",
+  "deliveryHours": [
+    "Monday 09:00 - 15:00",
+    "Tuesday 09:00 - 15:00",
+    "Wednesday 09:00 - 15:00",
+    "Thursday 09:00 - 15:00",
+    "Friday 09:00 - 15:00"
+  ],
+  "email": "johnsonsfruiterers1@outlook.com",
+  "description": "We are a family run Greengrocers of 20 years, offering fresh local produce delivered to your door or for collection at our shop in Rye Harbour.  Give us a call to place your first order, so we can make sure we offer a service tailored to you, then we have an order email address for subsequent orders."
+}
