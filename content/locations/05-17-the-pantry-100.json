@@ -1,0 +1,18 @@
+{
+  "safetyTips": "Here at The Pantry 100 we follow all the latest food production and delivery guidelines from NCASS.",
+  "name": "THE PANTRY 100",
+  "phone": "07817395490",
+  "address": "1 New Cottages, Renville, Bridge, Canterbury, Kent, C4 5AD",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589722907/P100_Banner_b6un8t.jpg",
+  "tags": [
+    "Food",
+    "Street Food",
+    "Baked Goods"
+  ],
+  "website": "https://www.thepantry100.uk/",
+  "deliveryHours": [
+    "Thursday 16:00 - 20:00"
+  ],
+  "email": "thepantry100@gmail.com",
+  "description": "Hi, we're Martin & Claire and here at The Pantry 100, we’re passionate about great tasting food. We believe in serving delicious, fresh, homemade food which is produced with the best possible locally sourced ingredients. In the absence of our local Farmers Markets and Foodie Events we are now offering our products online for home delivery. Why not have a look at the menu and see what we can cook up for you. Please order online."
+}
