@@ -1,0 +1,24 @@
+{
+  "safetyTips": "Contactless doorstop delivery.",
+  "name": "LILY'S BRITISH CANDY SHOP",
+  "phone": "07703797917",
+  "address": "CT14 7HE",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589740890/A9087307-3946-43BC-8154-C3A14C3FB7E0_obintj.jpg",
+  "tags": [
+    "Food",
+    "Sweets",
+    "Gifts"
+  ],
+  "website": "https://www.britishcandyshop.com/",
+  "deliveryHours": [
+    "Monday 12:00 to 20:00",
+    "Tuesday 12:00 to 20:00",
+    "Wednesday 12:00 to 20:00",
+    "Thursday 12:00 to 20:00",
+    "Friday 12:00 to 20:00",
+    "Saturday 12:00 to 20:00",
+    "Sunday 12:00 to 20:00"
+  ],
+  "email": "lilysbritishcandy@gmail.com",
+  "description": "Pick’n’mix. Local deliveries and so much more! Please order online."
+}
