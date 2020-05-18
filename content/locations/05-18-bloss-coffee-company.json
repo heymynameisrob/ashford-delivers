@@ -1,0 +1,21 @@
+{
+  "safetyTips": "No public contact, gloves and masks worn and coffee roasted to 195 degrees.",
+  "name": "BLOSS COFFEE COMPANY",
+  "phone": "07547010276",
+  "address": "Kingsmill Granary, Mill Hill, Kingsnorth, TN23 3EW",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589798954/Full_Roastery_02_fta31n.jpg",
+  "tags": [
+    "Coffee"
+  ],
+  "website": "https://www.andbloss.com/",
+  "deliveryHours": [
+    "Monday 11.00 - 16.00",
+    "Tuesday 11.00 - 16.00",
+    "Wednesday 11.00 - 16.00",
+    "Thursday 11.00 - 16.00",
+    "Friday 11.00 - 16.00",
+    "Saturday 11.00 - 16.00"
+  ],
+  "email": "info@andbloss.com",
+  "description": "Bloss sells ethically conscious, high quality coffee, with the aim to create change for farmers and coffee drinkers. Small-batch roasters on the outskirts of Ashford. Please order via our website."
+}
