@@ -1,0 +1,26 @@
+{
+  "safetyTips": "Vac packing and delivered in refrigerated vans.",
+  "name": "ALDINGTON FRESH FOODS",
+  "phone": "01233721673",
+  "address": "Roman Road, Aldington, Ashford, Kent, TN25 7DH ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589825173/9E7B64CE-6FCB-4E9F-8797-328C5D9069D7_cio2bv.jpg",
+  "tags": [
+    "Food",
+    "Butcher",
+    "Meat",
+    "Fishmonger",
+    "Fruit",
+    "Vegetables",
+    "Groceries"
+  ],
+  "website": "https://www.facebook.com/aldingtonfreshfoods/",
+  "deliveryHours": [
+    "Tuesday 11:00 - 16:00",
+    "Wednesday 11:00 - 16:00",
+    "Thursday 11:00 - 16:00",
+    "Friday 11:00 - 16:00",
+    "Saturday 11:00 - 16:00"
+  ],
+  "email": "aldingtonfreshfoods@hotmail.com",
+  "description": "Supplying local and locally sourced fresh meat, fish and fruit & veg for delivery or collection. Order via Phone or Text 07854541675."
+}
