@@ -1,0 +1,22 @@
+{
+  "safetyTips": "Gloves, masks, social distancing, remote payment.",
+  "name": "FRASERS",
+  "phone": "01233756122",
+  "address": "Frasers, Coldharbour Farm, Egerton, ASHFORD, Kent, TN27 9DD ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589915831/B9C4C0AB-F430-4629-AE9B-E581512EB62B_wiiyn3.jpg",
+  "tags": [
+    "Food",
+    "Cakes",
+    "Ready Meals",
+    "Fruit & Veg",
+    "Dairy",
+    "Groceries",
+    "Baked Goods"
+  ],
+  "website": "https://frasersegerton.co.uk",
+  "deliveryHours": [
+    "Thursday 10:00 - 18:00"
+  ],
+  "email": "lisa@frasersegerton.co.uk",
+  "description": "Hi, we are offering collection and delivery within a 10 mile radius of our beautiful afternoon teas, ready meals, cakes, meringues, fresh fruit, veg, dairy, dry store . Once government guidelines allow, we will offer picnic hampers and afternoon teas to be enjoyed on our farm adhering to social distancing. Private dining will be offered Iater down the line. Family and friends groups, once allowed, in 2 private dining areas. Order by email, payment remotely over the phone."
+}
