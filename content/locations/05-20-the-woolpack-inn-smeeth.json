@@ -1,0 +1,25 @@
+{
+  "safetyTips": "Food prepared in kitchen.  Drivers have PPE and food delivered in new packaging and kept warm using insulated food bags.",
+  "name": "THE WOOLPACK INN SMEETH",
+  "phone": "01303814095",
+  "address": "The Woolpack Inn, Church Road, Smeeth, Kent, TN25 6RX",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1589973043/cfb4a8162ad549a9931f8aaf0885d488_rdqgqi.jpg",
+  "tags": [
+    "Takeaway",
+    "Food",
+    "Burgers",
+    "Pizza",
+    "Beer",
+    "Alcohol"
+  ],
+  "website": "https://www.woolpacksmeeth.co.uk",
+  "deliveryHours": [
+    "Tuesday 17:00 - 20:00",
+    "Thursday 17:00 - 20:00",
+    "Friday 17:00 - 20:00",
+    "Saturday 17:00 - 20:00",
+    "Sunday 17:00 - 20:00"
+  ],
+  "email": "thewoolpacksmeeth@gmail.com",
+  "description": "Local delivery in Brabourne, Smeeth and Sellindge of freshly made pizza, burgers, curry, fajitas and more. Roast dinner delivered 12 - 3pm Sunday.  Order by phone."
+}
