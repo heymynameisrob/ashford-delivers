@@ -1,0 +1,25 @@
+{
+  "safetyTips": "As per customer requests.",
+  "name": "FIXINGS WAREHOUSE",
+  "phone": "08707606378",
+  "address": "Inside the New Ashford Market, Orbital Park, Ashford, TN24 0HB ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1590005447/Screen_Shot_2020-05-20_at_9.10.11_PM_yf5t4q.png",
+  "tags": [
+    "DIY",
+    "Home & Garden",
+    "Trade",
+    "Tools",
+    "Fixings",
+    "Ironmongers"
+  ],
+  "website": "https://www.fixingswarehouse.co.uk/",
+  "deliveryHours": [
+    "Monday 8:00 - 17:00",
+    "Tuesday 8:00 - 17:00",
+    "Wednesday 8:00 - 17:00",
+    "Thursday 8:00 - 17:00",
+    "Friday 8:00 - 17:00"
+  ],
+  "email": "ashford@fixingswarehouse.co.uk",
+  "description": "Fixings Warehouse are a family run independent supplier of fixings, wood treatments, sealants, tools, ironmongery, and so much more...  Delivery or Collection."
+}
