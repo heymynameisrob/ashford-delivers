@@ -1,0 +1,28 @@
+{
+  "safetyTips": "We are operating using government guidelines.",
+  "name": "CHEGWORTH VALLEY",
+  "phone": "01622859272",
+  "address": "Chegworth Valley, Water Lane, Harrietsham, Kent, ME17 1DE",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1590089531/98a7ba49-4b31-4c42-9fc1-cd29ba573e13_ztblgx.jpg",
+  "tags": [
+    "Food",
+    "Groceries",
+    "Veg Box",
+    "Organic",
+    "Gluten Free",
+    "Eggs",
+    "Flour"
+  ],
+  "website": "https://chegworthvalley.com/",
+  "deliveryHours": [
+    "Monday 10:00 - 18:00",
+    "Tuesday 10:00 - 18:00",
+    "Wednesday 10:00 - 18:00",
+    "Thursday 10:00 - 18:00",
+    "Friday 10:00 - 18:00",
+    "Saturday 10:00 - 18:00",
+    "Sunday 10:00 - 18:00"
+  ],
+  "email": "info@chegworthvalley.com",
+  "description": "Chegworth Valley are a Kent based family run farm. Producing juices and produce we are delivering across the UK. Fruit and Vegetable boxes plus a number of essential items. Delivery is either by one of our own vans or courier depending on location.  Order online or by phone."
+}
