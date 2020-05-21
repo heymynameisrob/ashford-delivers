@@ -1,0 +1,23 @@
+{
+  "safetyTips": "Contactless delivery. No Cash payments. Following strict social distance rules. ",
+  "name": "EVEREST INN ASHFORD",
+  "phone": "01233643643",
+  "address": "113 Station Road, Ashford, Kent, TN23 1PJ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1590089242/Food_and_Logo_mxuhwk.jpg",
+  "tags": [
+    "Takeaway",
+    "Food",
+    "Indian"
+  ],
+  "website": "https://everestinnashford.co.uk/",
+  "deliveryHours": [
+    "Tuesday 17:00 - 21:00",
+    "Wednesday 17:00 - 21:00",
+    "Thursday 17:00 - 21:00",
+    "Friday 17:00 - 21:00",
+    "Saturday 17:00 - 21:00",
+    "Sunday 17:00 - 21:00"
+  ],
+  "email": "info@everestinnashford.co.uk",
+  "description": "Nepalese and Indian restaurant providing Takeaway and home delivery service to Ashford and surrounding area - within a 4 mile radius. 15% Collection discount or Free home delivery. Open Tuesday to Sunday from 5 pm to 9 pm.  Order online, via our website or by phone."
+}
