@@ -1,0 +1,29 @@
+{
+  "safetyTips": "Deliveries & collections are both contactless. Our delivery drivers will leave all produce in a safe place, which we will agree with you over the phone. We will ring the doorbell and/or knock on the door, so please acknowledge your delivery driver in some way (a simple wave from the window is enough!).",
+  "name": "MACKNADE",
+  "phone": "01795534497",
+  "address": "We are open in Ashford on Saturdays for collections only: No.1 Elwick Place. Ashford. Kent. TN23 1AE.  We are still open in Faversham: Macknade Food Hall. Faversham. Kent ME13 8XF.",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1590059701/52f1043f-87ab-48e2-a320-ba2dfdfc76cd_2_vtjxzq.jpg",
+  "tags": [
+    "Food",
+    "Groceries",
+    "Baked Goods",
+    "Cake",
+    "Gluten & Dairy Free",
+    "Vegan",
+    "Veg Box",
+    "Butchers",
+    "Flour",
+    "Eggs",
+    "Cheese",
+    "Alcohol"
+  ],
+  "website": "https://macknade.com/delivery-service/",
+  "deliveryHours": [
+    "Wednesday 09:00 - 18:00",
+    "Friday 09:00 - 18:00",
+    "Saturday 09:00 - 18:00"
+  ],
+  "email": "orders@macknade.com",
+  "description": "Famous for our Flagship Faversham Food Hall and recently opening in Elwick Place, Macknade is now able to offer home delivery to the people of Ashford, featuring delicious food & drink from our greengrocers, delicatessen, butchery, grocers & wine shop. This applies to all TN23, TN24 and TN25 postcodes, plus Challock, Boughton Lees and Wye. You can choose from a pre-made box or supply your own bespoke grocery list. A contactless collections service is also available from Elwick Place every Saturday afternoon.  There are two ways of placing an order. Submit your order using our online form https://macknade.com/orders-for-delivery-collection/ or call us on 01795 534497 to speak with one of the team."
+}
