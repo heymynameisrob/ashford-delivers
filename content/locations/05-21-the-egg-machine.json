@@ -1,0 +1,27 @@
+{
+  "safetyTips": "Please wait your turn and sanitise in and out.",
+  "name": "THE EGG MACHINE",
+  "phone": "01233720215",
+  "address": "Bank Farm, Aldington, Ashford Kent TN25 7DF",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1590079839/The_Egg_Machine_obkztk.jpg",
+  "tags": [
+    "Groceries",
+    "Eggs",
+    "Milk",
+    "Flour",
+    "Veg Box",
+    "Baked Goods",
+    "Cakes"
+  ],
+  "deliveryHours": [
+    "Monday 24/7",
+    "Tuesday 24/7",
+    "Wednesday 24/7",
+    "Thursday 24/7",
+    "Friday 24/7",
+    "Saturday 24/7",
+    "Sunday 24/7"
+  ],
+  "email": "doug@bankfarm.co.uk",
+  "description": "The Egg Machine is a 24/7 farm shop vending machine selling free range eggs, milk, veg boxes, strawberries, asparagus, pies, scotch eggs, sausage rolls, cream teas and the world famous brownies! Open all the time, come early or late or in the middle of the night there will always be a great range of local produce available. Contactless payment and great social distancing systems in place."
+}
