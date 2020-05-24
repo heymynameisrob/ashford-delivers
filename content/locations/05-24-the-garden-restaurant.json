@@ -1,0 +1,19 @@
+{
+  "safetyTips": "Payment can be taken over the phone.  Delivered or collected at a distance. ",
+  "name": "THE GARDEN RESTAURANT",
+  "phone": "07845071081",
+  "address": "The Garden Restaurant, Ashford Road, Bethersden, Kent, TN26 3LF",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1590339332/inbound2621679913010333687_oaw9ik.jpg",
+  "tags": [
+    "Takeaway",
+    "Roast",
+    "Afternoon Tea",
+    "Cake"
+  ],
+  "website": "https://m.facebook.com/thegardenrestaurantbethersden/",
+  "deliveryHours": [
+    "Sunday 11:00 - 15.30"
+  ],
+  "email": "thegardenrestaurant@outlook.com",
+  "description": "We are currently offering one, two or three course Sunday Roast deliveries.  We are also offering afternoon tea on bank holidays and Father's Day. We can also deliver full cakes and puddings on request. Order by phone, email or Facebook message."
+}
