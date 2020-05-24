@@ -1,0 +1,21 @@
+{
+  "safetyTips": "Gloves & hand sterilisation. ",
+  "name": "QUEENS HEAD KINGSNORTH",
+  "phone": "01233620769",
+  "address": "Ashford Road, Kingsnorth, Kent, TN23 3EN.",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1590322602/inbound4857149617329536302_excutj.jpg",
+  "tags": [
+    "Pub",
+    "Food",
+    "Takeaway"
+  ],
+  "website": "https://www.queenshead-kingsnorth.co.uk/",
+  "deliveryHours": [
+    "Thursday 12:00 - 15:00 & 17:00 - 19:00",
+    "Friday 12:00 - 15:00 & 17:00 - 19:00",
+    "Saturday 12:00 - 15:00 & 17:00 - 19:00",
+    "Sunday 12:00 - 15:00 & 17:00 - 19:00"
+  ],
+  "email": "queensheadkingsnorth@gmail.com",
+  "description": "Pub. Currently only open for delivery or takeaway. Order via phone or email."
+}
