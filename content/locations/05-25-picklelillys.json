@@ -1,0 +1,25 @@
+{
+  "safetyTips": "Changing of gloves between each delivery, contactless collection or delivery and hand sanitizer used.",
+  "name": "PICKLELILLY'S",
+  "phone": "07545304895",
+  "address": "1 Cherry Garden Crescent, Wye, TN25 5AS ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1590403633/B84BEF14-3E82-41B2-B93D-E162BDD0EB3D_wyaa79.jpg",
+  "tags": [
+    "Afternoon Tea",
+    "Cake",
+    "Celebration",
+    "Tea",
+    "Gifts"
+  ],
+  "website": "https://www.facebook.com/picklelillycupcakes/",
+  "deliveryHours": [
+    "Monday 9:30 - 17:00",
+    "Tuesday 9:30 - 17:00",
+    "Wednesday 9:30 - 17:00",
+    "Thursday 9:30 - 17:00",
+    "Friday 9:30 - 17:00",
+    "Saturday 9:30 - 17:00",
+    "Sunday 9:30 - 17:00"
+  ],
+  "description": "Cakes and cream teas.  Order via Facebook Page Messenger preferably, or phone."
+}
