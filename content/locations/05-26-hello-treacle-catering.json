@@ -1,0 +1,20 @@
+{
+  "safetyTips": "Non contact doorstep delivery following strict guidelines.",
+  "name": "HELLO TREACLE CATERING",
+  "phone": "07909521183",
+  "address": "Dering Road, Ashford, Kent, TN24 8DB ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1590491192/FEA7C1BC-51A6-4045-8B1D-1222A3384C46_wcggem.png",
+  "tags": [
+    "Food",
+    "Baked Goods",
+    "Afternoon Tea"
+  ],
+  "website": "http://hellotreaclecatering.com/",
+  "deliveryHours": [
+    "Thursday 11:00 - 14:00",
+    "Friday 11:00 - 14:00",
+    "Saturday 11:00 - 14:00"
+  ],
+  "email": "enquiries@hellotreaclecatering.com",
+  "description": "Hello Treacle offers homemade rustic afternoon teas, small buffet lunches & picnic boxes for collection or local delivery. Order by email, phone or via Facebook page. "
+}
