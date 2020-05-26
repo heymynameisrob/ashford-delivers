@@ -1,0 +1,20 @@
+{
+  "safetyTips": "Contactless Delivery.",
+  "name": "CARAWAY & RYE",
+  "address": "Bridge Road, Ashford TN23 1BB",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1590509505/LOGO_qlsijb.jpg",
+  "tags": [
+    "Food",
+    "Ready Meals",
+    "Salad",
+    "Vegetables",
+    "Vegan"
+  ],
+  "website": "https://www.carawayandrye.com",
+  "deliveryHours": [
+    "Wednesday 10:00 - 17:00",
+    "Saturday 10:00 - 17:00"
+  ],
+  "email": "mail@carawayandrye.com",
+  "description": "With ten years of experience as caterers in Kent, the creators of Caraway and Rye are now preparing and delivering meals in the Ashford area. We create food that is healthy and filling, that tastes great and we cater to all tastes including vegetarian and vegan.  Pre-order online and contactless delivery."
+}
