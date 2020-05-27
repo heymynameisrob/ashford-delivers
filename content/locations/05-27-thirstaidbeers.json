@@ -1,0 +1,18 @@
+{
+  "safetyTips": "Sanitary production methods, PPE equipped drivers.",
+  "name": "THIRSTAIDBEERS",
+  "address": "Unit 8, CT21 4NB",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1590594082/KB_Hero_pnvkbr.jpg",
+  "tags": [
+    "Beer",
+    "Cider",
+    "Alcohol"
+  ],
+  "website": "https://www.thirstaidbeers.co.uk/",
+  "deliveryHours": [
+    "Thursday 08:00 - 18:00",
+    "Friday 08:00 - 18:00"
+  ],
+  "email": "hello@thirstaidbeers.co.uk",
+  "description": "Local, craft beer delivered safely to your door. A Covid19 Cooperation between Hopfuzz Brewery & Romney Marsh Brewery. Please order via our website."
+}
