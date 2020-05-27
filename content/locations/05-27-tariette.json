@@ -1,0 +1,26 @@
+{
+  "safetyTips": "Non perishable food. Delivery by car.",
+  "name": "TARIETTE",
+  "phone": "07584484932",
+  "address": "90-92 Hythe End Road, Wraysbury, Staines, TW19 5AP",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1590589233/hero_uhoafb.jpg",
+  "tags": [
+    "Food",
+    "Groceries",
+    "Wine",
+    "Deli",
+    "Homewares"
+  ],
+  "website": "https://tariette.com/",
+  "deliveryHours": [
+    "Monday 9:00 - 18:00",
+    "Tuesday 9:00 - 18:00",
+    "Wednesday 9:00 - 18:00",
+    "Thursday 9:00 - 18:00",
+    "Friday 9:00 - 18:00",
+    "Saturday 9:00 - 18:00",
+    "Sunday 9:00 - 18:00"
+  ],
+  "email": "hello@tariette.com",
+  "description": "We are Tariette. We import food, wine and artisan products from Provence, France. We are based near Windsor. We offer free local delivery near us and to everyone in Ashford. We sell online and usually at markets and fairs.  Check us out for delicious French produce, wine and unique gift hampers.  Some of our products include: olive oil, tapenade, saucissons, terrines, chutneys, fish soup, onion soup, chocolate almonds, nougat, calissons... Order online."
+}
