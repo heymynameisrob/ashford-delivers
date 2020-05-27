@@ -1,0 +1,22 @@
+{
+  "safetyTips": "Hygienic packaging used.",
+  "name": "THE TAILORS OF HYTHE",
+  "phone": "01303488308",
+  "address": "44 High Street, Hythe, Kent, CT21 5AT",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1590591275/5549C306-319A-436A-8E6A-392B67BC74A7_zmg8av.jpg",
+  "tags": [
+    "Dry Cleaning",
+    "Tailors",
+    "Clothes"
+  ],
+  "deliveryHours": [
+    "Monday 08:30 - 17:30",
+    "Tuesday 08:30 - 17:30",
+    "Wednesday 08:30 - 17:30",
+    "Thursday 08:30 - 17:30",
+    "Friday 08:30 - 17:30",
+    "Saturday 08:30 - 17:30"
+  ],
+  "email": "goncer119@gmail.com",
+  "description": "We are a Tailors and Dry Cleaners.  Collection only.  We offer delivery for any large Dry Cleaning items. Delivery on Saturday and Monday at 17:00."
+}
