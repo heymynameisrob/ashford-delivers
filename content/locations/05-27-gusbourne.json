@@ -1,0 +1,20 @@
+{
+  "safetyTips": "A ‘No Contact Delivery Practice’ is in place for all orders. The safety and welfare of all staff involved in the network, and you our customers, remains the priority. These measures affect all aspects of order processing, from packaging and dispatch at the winery to final delivery to your front door.",
+  "name": "GUSBOURNE",
+  "address": "Kenardington Road, Appledore, TN26 2BE",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1590595205/Group_2020_fihpfy.png",
+  "tags": [
+    "Wine",
+    "Alcohol"
+  ],
+  "website": "https://www.gusbourne.com",
+  "deliveryHours": [
+    "Monday 8:00 - 18:00",
+    "Tuesday 8:00 - 18:00",
+    "Wednesday 8:00 - 18:00",
+    "Thursday 8:00 - 18:00",
+    "Friday 8:00 - 18:00"
+  ],
+  "email": "info@gusbourne.com",
+  "description": "At Gusbourne, we produce vintage English Sparkling Wines that stand up alongside the very finest offerings from across the globe. We offer free delivery in the mainland UK with no minimum order required. Our still wines are also currently available online. Please order via our website."
+}
