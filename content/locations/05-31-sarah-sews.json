@@ -1,14 +1,14 @@
 {
+  "safetyTips": "I recommend that after receiving the masks you leave them for a minimum of 48hours before wearing (as they will have already been packaged and in the  post for at least 24 hours).",
   "name": "SARAH SEWS",
-  "description": "Handmade 100% cotton, lined, adjustable, shaped, washable face coverings. Very comfortable to wear while shopping, on public transport or in any enclosed area. Selection of patterns and colours. Delivered by post, I send them out daily Monday to Friday. £4.50 per mask £1.50 postage and packing up to 6 masks. I accept PayPal. Any profit from sales will go to the Royal Marsden head and neck unit. Order via Email or Facebook. ",
+  "address": "Charing, Kent ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1590911453/D1337322-9FA8-4DC8-B36A-BCCBFD5D2564_nqhbc5.jpg",
   "tags": [
     "Clothing",
     "Gifts",
     "Craft"
   ],
-  "address": "Charing, Kent ",
-  "email": "sarahsews1966@gmail.com",
-  "safetyTips": "I recommend that after receiving the masks you leave them for a minimum of 48hours before wearing (as they will have already been packaged and in the  post for at least 24 hours).",
+  "website": "https://m.facebook.com/sarahsewsfacecoverings/",
   "deliveryHours": [
     "Monday - By Post",
     "Tuesday - By Post",
@@ -16,5 +16,6 @@
     "Thursday - By Post",
     "Friday - By Post"
   ],
-  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1590911453/D1337322-9FA8-4DC8-B36A-BCCBFD5D2564_nqhbc5.jpg"
+  "email": "sarahsews1966@gmail.com",
+  "description": "Handmade 100% cotton, lined, adjustable, shaped, washable face coverings. Very comfortable to wear while shopping, on public transport or in any enclosed area. Selection of patterns and colours. Delivered by post, I send them out daily Monday to Friday. £4.50 per mask £1.50 postage and packing up to 6 masks. I accept PayPal. Any profit from sales will go to the Royal Marsden head and neck unit. Order via Email or Facebook. "
 }
