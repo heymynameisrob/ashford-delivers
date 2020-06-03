@@ -1,0 +1,23 @@
+{
+  "safetyTips": "Your order will be placed in a designated space for you to pick up, observing social distancing guidance.",
+  "name": "PIZZASHED",
+  "address": "The Kings Head, Church Street, Wye, Ashford, Kent, TN25 5BN",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1591208552/X3OX1008_lwd6vs.jpg",
+  "tags": [
+    "Takeaway",
+    "Pizza",
+    "Burgers",
+    "Fish & Chips",
+    "Pasta",
+    "Alcohol",
+    "Coffee",
+    "Dessert",
+    "Gluten Free"
+  ],
+  "website": "https://www.kingshed.co.uk/",
+  "deliveryHours": [
+    "Collection Only"
+  ],
+  "email": "info@kingsheadwye.com",
+  "description": "During the COVID-19 crisis we will be operating a “Contactless Click & Collect” service from The Kings Head and KingShed.  We’ll have pizzas from The KingShed on Wednesday, Thursday, and Saturday, and Fish and chips, burgers and pasta from The Kings Head kitchen on Fridays. "
+}
