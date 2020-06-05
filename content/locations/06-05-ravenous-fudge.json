@@ -1,0 +1,24 @@
+{
+  "safetyTips": "We follow all advice given to us by the local authority.",
+  "name": "RAVENOUS FUDGE",
+  "phone": "07894831586",
+  "address": "94 Harsnett Rd, Colchester, Essex, CO1 2HX ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1591363595/IMG_20191022_224853_768_sbye9m.jpg",
+  "tags": [
+    "Food",
+    "Sweets",
+    "Dairy",
+    "Gluten Free"
+  ],
+  "website": "https://ravenousfudge.com/wp-content/cache/all/index.html",
+  "deliveryHours": [
+    "Monday 09:00 - 17:00",
+    "Tuesday 09:00 - 17:00",
+    "Wednesday 09:00 - 17:00",
+    "Thursday 09:00 - 17:00",
+    "Friday 09:00 - 17:00",
+    "Saturday"
+  ],
+  "email": "info@ravenousfudge.com",
+  "description": "All our fudge is handmade, gluten free and vegetarian (vegan flavours available) Free delivery on orders over £10 15% off on orders over £25 25% off on orders over £50. Order Online, PM or phone."
+}
