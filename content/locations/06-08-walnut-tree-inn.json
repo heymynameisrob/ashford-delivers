@@ -1,0 +1,29 @@
+{
+  "safetyTips": "Two meter distance, face masks, card machine.",
+  "name": "WALNUT TREE INN",
+  "phone": "01233720298",
+  "address": "Walnut Tree Inn, Forge Hill, Aldington, Ashford, Kent, TN25 7DT ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1591638684/22170299-9E20-4CDA-A863-C4F922F182D7_lyklsf.jpg",
+  "tags": [
+    "Pub",
+    "Takeaway",
+    "Food",
+    "Fish & Chips",
+    "Pizza",
+    "Burgers",
+    "Roast",
+    "Gluten Free"
+  ],
+  "website": "https://walnuttreealdington.co.uk/",
+  "deliveryHours": [
+    "Monday 12:00 - 18:00",
+    "Tuesday 12:00 - 18:00",
+    "Wednesday 12:00 - 18:00",
+    "Thursday 12:00 - 18:00",
+    "Friday 12:00 - 18:00",
+    "Saturday 12:00 - 18:00",
+    "Sunday 12:00 - 18:00"
+  ],
+  "email": "walnuttreetakeaway@hotmail.co.uk",
+  "description": "Take away home cooked meals. Collection available. £5 minimum order for delivery. Delivery on foot or by car. Order via phone or email."
+}
