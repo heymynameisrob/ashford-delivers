@@ -1,0 +1,25 @@
+{
+  "name": "NOIY'S NOODLES",
+  "description": "South Asian Street Food. Order by Phone. Collection Only.",
+  "tags": [
+    "Takeaway",
+    "Street Food",
+    "Thai",
+    "Beer",
+    "Cider",
+    "Wine",
+    "Tea",
+    "Coffee"
+  ],
+  "address": "82 Stade St, Hythe, CT21 6DD",
+  "phone": "01303 267370",
+  "safetyTips": "One customer at a time please.  Please adhere to collection times.",
+  "deliveryHours": [
+    "Tuesday 13:00 - 21:00 Collection Only",
+    "Wednesday 13:00 - 21:00 Collection Only",
+    "Thursday 13:00 - 21:00 Collection Only",
+    "Friday 13:00 - 21:00 Collection Only",
+    "Saturday 13:00 - 21:00 Collection Only"
+  ],
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1591971653/Noiys_Frontage_k3jfcd.jpg"
+}
