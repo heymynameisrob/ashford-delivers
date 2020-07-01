@@ -1,0 +1,29 @@
+{
+  "safetyTips": "Following Covid Guidelines",
+  "name": "AIRPORT CAFE",
+  "phone": "01303813185",
+  "address": "A20 Main Road, Sellindge, Near Ashford, TN25 6DA",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1593600312/3BABD1C2-954A-4D7C-BF54-57C602B3AD30_g2ccc7.jpg",
+  "tags": [
+    "Food",
+    "Takeaway",
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Tea",
+    "Coffee",
+    "Alcohol"
+  ],
+  "website": "https://www.facebook.com/Airport-cafe-185270638169631/",
+  "deliveryHours": [
+    "Monday 07:00 - 21:00 COLLECTION ONLY",
+    "Tuesday 07:00 - 21:00 COLLECTION ONLY",
+    "Wednesday 07:00 - 21:00 COLLECTION ONLY",
+    "Thursday 07:00 - 21:00 COLLECTION ONLY",
+    "Friday 07:00 - 21:00 COLLECTION ONLY",
+    "Saturday 07:00 - 21:00 COLLECTION ONLY",
+    "Sunday 07:00 - 21:00 COLLECTION ONLY"
+  ],
+  "email": "patanjulie@aol.com",
+  "description": "Traditional English Cafe serving superb full English breakfast and lunches, plus evening  Meals.  Healthy options, vegetarian etc, available. Takeaway also available. Pre order by phone 01303813185."
+}
