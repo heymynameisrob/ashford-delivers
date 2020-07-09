@@ -1,0 +1,25 @@
+{
+  "safetyTips": "I follow strict EHO guidelines with food being made then stored in temperature controlled fridges before being delivered.",
+  "name": "LADY'S WHO LUNCH",
+  "phone": "07813135724",
+  "address": "Austin Road, Ashford, TN23 6JP",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1594291854/E195A02C-8752-41DF-9F2A-8BF2D6DE132B_iion7p.png",
+  "tags": [
+    "Food",
+    "Cakes",
+    "Pastries",
+    "Sandwiches",
+    "Salads",
+    "Snacks",
+    "Buffets"
+  ],
+  "website": "https://www.ladyswholunch.org/",
+  "deliveryHours": [
+    "Monday 09:00 - 13:00",
+    "Tuesday 09:00 - 13:00",
+    "Wednesday 09:00 - 13:00",
+    "Thursday 09:00 - 13:00"
+  ],
+  "email": "ladyswholunch@yahoo.com",
+  "description": "Lady’s Who Lunch is a ‘in house’ catering service bringing food to your desk. We also cater for meetings/seminars/workshops. Order via phone or email."
+}
