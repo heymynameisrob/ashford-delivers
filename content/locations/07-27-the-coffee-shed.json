@@ -1,0 +1,25 @@
+{
+  "safetyTips": "Perspex screen, contactless payment",
+  "name": "THE COFFEE SHED",
+  "address": "Dover Place, Ashford TN231HU",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1595856042/81009B41-E0E5-4313-8372-441C1F4EF409_pbpzfv.jpg",
+  "tags": [
+    "Coffee",
+    "Tea",
+    "Breakfast",
+    "Lunch",
+    "Snacks",
+    "Ice Cream"
+  ],
+  "website": "https://www.thecoffeeshed.org/",
+  "deliveryHours": [
+    "Monday COLLECTION ONLY",
+    "Tuesday COLLECTION ONLY",
+    "Wednesday COLLECTION ONLY",
+    "Thursday COLLECTION ONLY",
+    "Friday COLLECTION ONLY",
+    "Saturday COLLECTION ONLY"
+  ],
+  "email": "info@the iffeeshed.org",
+  "description": "Takeaway service for Coffee and all hot drinks, light breakfast and lunches, ice cream and snacks"
+}
