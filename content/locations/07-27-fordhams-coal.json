@@ -1,0 +1,27 @@
+{
+  "safetyTips": "Socially distanced deliveries, products can be left outside.",
+  "name": "FORDHAMS COAL",
+  "phone": "01233840222 or 07521778561",
+  "address": "Chambers Green Road, Pluckley, TN27 0RH",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1595856426/fordhams_coal_logo_qa0g6u.png",
+  "tags": [
+    "Fuel",
+    "Coal",
+    "Gas",
+    "BBQ",
+    "Sleepers",
+    "Compost",
+    "Garden"
+  ],
+  "website": "https://www.fordhamscoal.co.uk/",
+  "deliveryHours": [
+    "Monday 0800 - 1700",
+    "Tuesday 0800 - 1700",
+    "Wednesday 0800 - 1700",
+    "Thursday 0800 - 1700",
+    "Friday 0800 - 1700",
+    "Saturday 0800 - 1700"
+  ],
+  "email": "info@fordhamscoal.co.uk",
+  "description": "A Family Run business in Pluckley, delivering a range of solid fuels, gas, compost, sleepers, bbq and restaurant coal.  Free delivery in Ashford and surrounding villages, collection also available. Order via Website, email or telephone."
+}
