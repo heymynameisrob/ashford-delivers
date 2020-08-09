@@ -1,0 +1,26 @@
+{
+  "safetyTips": "Social distance deliveries, masks, gloves and hand sanitiser at all times.",
+  "name": "REFILLDROP",
+  "phone": "07426858515",
+  "address": "Pluckley Road, Smarden",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1596994061/refilldrop_logo_blue_qsveyz.png",
+  "tags": [
+    "Zero Waste",
+    "Toiletries",
+    "Home & Garden",
+    "Cleaning Products",
+    "Vegan"
+  ],
+  "website": "https://shop.refilldrop.com/",
+  "deliveryHours": [
+    "Monday 08:00 - 22:00",
+    "Tuesday 08:00 - 22:00",
+    "Wednesday 08:00 - 22:00",
+    "Thursday 08:00 - 22:00",
+    "Friday 08:00 - 22:00",
+    "Saturday 08:00 - 22:00",
+    "Sunday 08:00 - 22:00"
+  ],
+  "email": "hello@refilldrop.com",
+  "description": "Zero-waste shopping! Everything we sell comes in reusable packaging that we collect, clean and reuse. Currently sell toiletries, hand sanitiser, cleaning supplies etc. Everything is eco-friendly, biodegradable and with no single-use plastic packaging ever. 10% off and free delivery for members. Order via our website."
+}
