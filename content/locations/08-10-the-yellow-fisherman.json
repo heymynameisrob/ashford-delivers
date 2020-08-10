@@ -1,0 +1,26 @@
+{
+  "safetyTips": "You can ask for non contact delivery ",
+  "name": "THE YELLOW FISHERMAN",
+  "phone": "01233 713922",
+  "address": "Maidstone road, Tutt hill, TN26 1AP",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1597043291/41B26E76-7C33-497D-A9D8-7719EA54280B_p8pgd8.jpg",
+  "tags": [
+    "Fish & Chips",
+    "Kebabs.",
+    "Burgers",
+    "Food",
+    "Takeaway"
+  ],
+  "website": "https://theyellowfisherman.com/#/canterburry/the-yellow-fisherman/info",
+  "deliveryHours": [
+    "Monday 13:00 - 22:00 ",
+    "Tuesday 13:00 - 22:00 ",
+    "Wednesday 13:00 - 22:00 ",
+    "Thursday 13:00 - 22:00 ",
+    "Friday 13:00 - 22:00 ",
+    "Saturday 13:00 - 22:00 ",
+    "Sunday 16:00 - 22:00"
+  ],
+  "email": "baytullahy@gmail.com",
+  "description": "We sell fish and chips and kebabs. We also deliver, the minimum delivery is £10. Order online. "
+}
