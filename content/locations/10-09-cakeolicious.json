@@ -1,0 +1,22 @@
+{
+  "safetyTips": "Contactless delivery.",
+  "name": "CAKEOLICIOUS",
+  "phone": "07701384769",
+  "address": "Ashford, Kent",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1602242730/DC7F8AEB-F625-47A3-8F49-A7E05913D33E_croydq.png",
+  "tags": [
+    "Cakes",
+    "Baked Goods"
+  ],
+  "website": "https://www.facebook.com/cakeolicious20",
+  "deliveryHours": [
+    "Monday 18:00 - 20:00",
+    "Tuesday 18:00 - 20:00",
+    "Wednesday 18:00 - 20:00",
+    "Thursday 18:00 - 20:00",
+    "Friday 18:00 - 20:00",
+    "Saturday 18:00 - 20:00"
+  ],
+  "email": "cakeiolicious20@gmail.com",
+  "description": "Cakeolicious offers cupcakes, iced biscuits, cookies and treat boxes, all made to order and can be personalised as you wish. Contact free. Delivery or collection. "
+}
