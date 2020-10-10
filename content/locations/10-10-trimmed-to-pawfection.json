@@ -1,0 +1,21 @@
+{
+  "safetyTips": "PPE",
+  "name": "TRIMMED TO PAWFECTION",
+  "phone": "07814522043",
+  "address": "Singleton, Ashford TN23 5YW",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1602343284/E9F3F93A-737E-464E-8312-523EBF03618C_snopbg.jpg",
+  "tags": [
+    "Dog Grooming",
+    "Pets"
+  ],
+  "deliveryHours": [
+    "Monday 08:30 - 18:00 (On site only)",
+    "Tuesday 08:30 - 18:00 (On site only)",
+    "Wednesday 08:30 - 18:00 (On site only)",
+    "Thursday 08:30 - 18:00 (On site only)",
+    "Friday 08:30 - 18:00 (On site only)",
+    "Saturday 08:30 - 18:00 (On site only)"
+  ],
+  "email": "trimmedtopawfection@gmail.com",
+  "description": "One to one dog grooming service with a qualified dog groomer in Singleton, Ashford."
+}
