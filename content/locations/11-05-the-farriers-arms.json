@@ -1,0 +1,22 @@
+{
+  "safetyTips": "We are strictly following all government guidelines to keep us all safe.",
+  "name": "THE FARRIERS ARMS",
+  "address": "The Forstal, Mersham, Ashford, Kent TN25 6NU",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1604580133/BD92493E-CA1C-4D6F-AD92-3BE7CE003C9F_o7xdio.jpg",
+  "tags": [
+    "Restaurant",
+    "Takeaway",
+    "Burgers",
+    "Roasts",
+    "Beer "
+  ],
+  "website": "https://www.thefarriersarms.com/",
+  "deliveryHours": [
+    "Thursday - 18:00 - 20:00",
+    "Friday - 18:00 - 20:00",
+    "Saturday - 18:00 - 20:00",
+    "Sunday - 12:00 - 16:00"
+  ],
+  "email": "info@thefarriersarms.com",
+  "description": "As a community pub we are passionate about providing our delicious food via a takeaway service. Order via Phone, Email or HOPT app."
+}
