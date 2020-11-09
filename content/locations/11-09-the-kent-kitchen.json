@@ -1,0 +1,25 @@
+{
+  "safetyTips": "COVID safe. Timed collection slots & masks worn on collection & delivery. ",
+  "name": "THE KENT KITCHEN",
+  "phone": "07767762982",
+  "address": "Lymbridge Green, Stowting TN25 6BL",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1604938948/image001_ywl77e.png",
+  "tags": [
+    "Takeaway",
+    "Food",
+    "Catering",
+    "Family Meals",
+    "Baked Goods"
+  ],
+  "website": "https://www.thekentkitchen.co.uk/",
+  "deliveryHours": [
+    "Monday 12:00 - 20:30",
+    "Tuesday 12:00 - 20:30",
+    "Wednesday 12:00 - 20:30",
+    "Thursday 12:00 - 20:30",
+    "Friday 12:00 - 20:30",
+    "Saturday"
+  ],
+  "email": "office@thekentkitchen.co.uk",
+  "description": "Established catering business offering freshly prepared dishes which include local Kent ingredients.  Baked Treats, Weekend Takeaways & Family Menus.  For a special occasion or to have a break from cooking.  Pre-order for collection from Stowting, Ashford or delivery can be arranged depending on items ordered. Contact us via Phone or Email to discuss! "
+}
