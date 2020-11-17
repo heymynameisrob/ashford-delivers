@@ -1,0 +1,24 @@
+{
+  "safetyTips": "Driver is wearing a mask and sanitising regularly. All kitchen staff wearing PPE.",
+  "name": "THE TICKLED TROUT",
+  "phone": "01233812227",
+  "address": "2 bridge street, Wye.",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1605624478/65AB30C5-B476-4D97-B57C-CC385EA8BF28_ffemqe.jpg",
+  "tags": [
+    "Takeaway",
+    "Food",
+    "Fish & Chips",
+    "Restaurant"
+  ],
+  "website": "http://www.thetickledtrout.co.uk/",
+  "deliveryHours": [
+    "Monday 16:00 - 20:00",
+    "Tuesday 16:00 - 20:00",
+    "Wednesday 16:00 - 20:00",
+    "Thursday 16:00 - 20:00",
+    "Friday 16:00 - 20:00",
+    "Saturday 16:00 - 20:00"
+  ],
+  "email": "tom@thetickledtrout.co.uk",
+  "description": "Pub and restaurant with famous garden by the river. Currently delivering takeaway from our kitchen."
+}
