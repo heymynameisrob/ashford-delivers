@@ -1,0 +1,27 @@
+{
+  "safetyTips": "We offer a \"no contact\" delivery or pick up to Ashford and surrounding area.",
+  "name": "THE AMBRETTE KITCHEN",
+  "phone": "01227200777",
+  "address": "Ellingham Industrial Centre, 85 Ellingham Way, Ashford TN23 6JZ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1605624216/Ambrette_aso4et.jpg",
+  "tags": [
+    "Takeaway",
+    "Food",
+    "Beer & Wine",
+    "Fish & Chips",
+    "Indian",
+    "Street Food"
+  ],
+  "website": "https://www.ambretterestaurant.co.uk/",
+  "deliveryHours": [
+    "Monday 11:30 - 21:30",
+    "Tuesday 11:30 - 21:30",
+    "Wednesday 11:30 - 21:30",
+    "Thursday 11:30 - 21:30",
+    "Friday 11:30 - 21:30",
+    "Saturday 11:30 - 21:30",
+    "Sunday 11:30 - 21:30"
+  ],
+  "email": "info@theambrette.co.uk",
+  "description": "Exotic Modern Indian Home Delivery and collection service in Ashford. Sister to the award winning Ambrette Restaurants in Canterbury and Margate.  Order via Phone, the Ambrette App, Deliveroo, Ubereats, Just Eat, Hungrrr. "
+}
