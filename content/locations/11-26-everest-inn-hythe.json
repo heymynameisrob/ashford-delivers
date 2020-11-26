@@ -1,0 +1,23 @@
+{
+  "safetyTips": "We are following all the Government advises to make sure our restaurant is a Covid secure place.",
+  "name": "EVEREST INN HYTHE",
+  "phone": "01303269898",
+  "address": "32-34 High Street, Hythe, Kent. CT21 5AT",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1606394004/Everest_Inn_Kent_Logo_cwn01o.ai",
+  "tags": [
+    "Indian",
+    "Restaurant",
+    "Takeaway"
+  ],
+  "website": "https://everestinnkent.co.uk/",
+  "deliveryHours": [
+    "Tuesday 17:00 - 21:00",
+    "Wednesday 17:00 - 21:00",
+    "Thursday 17:00 - 21:00",
+    "Friday 17:00 - 21:00",
+    "Saturday 17:00 - 21:00",
+    "Sunday 17:00 - 21:00"
+  ],
+  "email": "info@everestinnkent.co.uk",
+  "description": "Everest Inn Hythe, Nepalese and Indian Restaurant, serving Hythe Area since 2004. We provide restaurant and takeaway service. We serve Hythe and surrounding areas. Open evening from 5 to 9 pm. Order via phone or online."
+}
