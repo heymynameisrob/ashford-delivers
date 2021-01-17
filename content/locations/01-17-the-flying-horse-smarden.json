@@ -1,0 +1,23 @@
+{
+  "safetyTips": "Payment over the phone. Left on door step. Door bell rang. ",
+  "name": "THE FLYING HORSE SMARDEN",
+  "phone": "01233770432",
+  "address": "TN27 8QD ",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1610864495/D491B9E3-1A2C-44F7-9124-D420F559FED7_tcpipz.jpg",
+  "tags": [
+    "Takeaway",
+    "Restaurant",
+    "Pub",
+    "Chips",
+    "Alcohol",
+    "Baked Goods"
+  ],
+  "website": "https://www.flyinghorsesmarden.co.uk/",
+  "deliveryHours": [
+    "Friday 1700 - 2000",
+    "Saturday 1700 - 2000 ",
+    "Sunday 1200 - 1600 "
+  ],
+  "email": "info@flyinghorsesmarden.co.uk",
+  "description": "We offer collection and delivery. You can find our full menu on the flying horse Smarden website. Call to order."
+}
