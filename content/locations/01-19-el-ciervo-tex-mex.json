@@ -1,0 +1,25 @@
+{
+  "safetyTips": "Face Masks worn by staff. Hand Sanitiser in delivery drivers cars. Door step delivery offered. Social Distance working in large kitchen.",
+  "name": "EL CIERVO TEX-MEX",
+  "phone": "01233611707",
+  "address": "Stag Coffee, 108-110 High Street, Ashford, Kent, TN24 8SD",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1611087599/El_Ciervo_Logo_etku6y.png",
+  "tags": [
+    "Takeaway",
+    "Mexican Food",
+    "American Food",
+    "Beer",
+    "Gluten & Dairy Free",
+    "Vegan",
+    "Street Food"
+  ],
+  "website": "https://elciervo.co.uk/menu",
+  "deliveryHours": [
+    "Wednesday 17:00 - 21:00",
+    "Thursday 17:00 - 21:00",
+    "Friday 17:00 - 22:00 ",
+    "Saturday 17:00 - 22:00 "
+  ],
+  "email": "elciervoashford@gmail.com",
+  "description": "El Ciervo the newest takeaway in Ashford, Kent. We deliver amazing homemade Mexican and American food to your door! Enjoy authentic dishes such as Tamales, Empanadas and Quesadillas or dig into one of our delicious Burgers or a Mac & Cheese! Mex up your takeout!  Order online or use our app and receive 20% off your order."
+}
