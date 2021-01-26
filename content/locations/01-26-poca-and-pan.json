@@ -1,0 +1,12 @@
+{
+  "name": "POCA AND PAN",
+  "description": "We create personalised gifts and illustrations! Poca and Pan is fuelled by our love for all things creative and our mission for female empowerment, equality and kindness. We specialise in family/friends/pet portraits - plus we create unique prints to highlight our passion for positive thinking and living! Order through our website or email us for postal delivery.",
+  "address": "Ashford",
+  "website": "https://www.pocaandpan.co.uk/",
+  "email": "pocaandpan@hotmail.com",
+  "safetyTips": "Following Government Guidelines.",
+  "deliveryHours": [
+    "All orders are sent via post. We don't deliver."
+  ],
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1611660228/Poca_Panlogo_cixki8.png"
+}
