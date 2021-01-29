@@ -1,0 +1,21 @@
+{
+  "safetyTips": "Covid safe deliveries",
+  "name": "BOXED BAKES",
+  "address": "Challock, TN25 4DE",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1611952400/973C9F83-061E-451B-B2BC-6C08FDC77FEC_fwrqtn.png",
+  "tags": [
+    "Baked Goods",
+    "Brownies"
+  ],
+  "website": "https://www.instagram.com/boxedbakeskent/",
+  "deliveryHours": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "email": "boxedbakes@aol.com",
+  "description": "Delightfully indulgent home baked brownies, blondies, cookies and biscuits. Nationwide delivery available. Order via Instagram or email. Minimum of 24 hours notice."
+}
