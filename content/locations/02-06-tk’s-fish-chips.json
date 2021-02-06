@@ -1,0 +1,23 @@
+{
+  "safetyTips": "Serving window, contactless delivery, masks, hand sanitiser, etc",
+  "name": "TK’S FISH & CHIPS",
+  "phone": "01233 623623",
+  "address": "18-20 Elwick Road, Ashford, Kent, TN23 1PF",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1612643821/E4052664-33B0-43D0-A087-CE0C79AA1376_jehakr.jpg",
+  "tags": [
+    "Takeaway",
+    "Fish & Chips",
+    "Food",
+    "Gluten Free"
+  ],
+  "website": "https://www.tksfishandchips.com/",
+  "deliveryHours": [
+    "Tuesday 16:00 - 20:00",
+    "Wednesday 16:00 - 20:00",
+    "Thursday 16:00 - 20:00",
+    "Friday 16:00 - 20:00",
+    "Saturday 16:00 - 20:00"
+  ],
+  "email": "ashford@tksfishandchips.com",
+  "description": "Fish & Chips and other goodies cooked to order with the best ingredients in Ashford Town centre. Click & Collect at the shop or home delivery service. Order from the link at www.tksfishandchips.com"
+}
