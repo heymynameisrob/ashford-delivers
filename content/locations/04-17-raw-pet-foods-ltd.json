@@ -1,0 +1,24 @@
+{
+  "safetyTips": "We always wear masks when meeting customers and offer contact free delivery",
+  "name": "RAW PET FOODS LTD",
+  "phone": "01233756406",
+  "address": " Jesses Farm, Wanden Ln, Egerton Forstal TN27 9DB",
+  "cover": "https://res.cloudinary.com/dhult2ubt/image/upload/c_limit,f_auto,q_80,w_500/v1618655651/Screen_Shot_2021-04-17_at_11.33.26_AM_fygcjt.png",
+  "tags": [
+    "Pets",
+    "Pet Food",
+    "Organic",
+    "Frozen"
+  ],
+  "website": "https://rawpetfoods.co.uk/",
+  "deliveryHours": [
+    "Monday 10:00 -17:00",
+    "Tuesday 10:00 -17:00",
+    "Wednesday 10:00 -17:00",
+    "Thursday 10:00 -17:00",
+    "Friday 10:00 -17:00",
+    "Saturday 10:00 -17:00"
+  ],
+  "email": "info@rawpetfoods.co.uk",
+  "description": "At Raw Pet Foods Ltd, we pride ourselves on being a high quality dog food producer, without the high quality price. Our product blends superb meat cuts and veg so your dog gets all the nutrition it needs without the unnecessary excess found in dried food. We deliver all our products including frozen dog meals in various sizes and a wide range of treats, all made and shipped from our Edgerton-based factory.  We offer a same day collection service as well as next day delivery by our own delivery drivers and courier system. Order via our website, telephone or email."
+}
